@@ -1,12 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/ioghostscience/terminology/schema/terms.schema.json",
+  "$id": "https://github.com/Institute-of-Ghost-Science/igs-terminology/schema/terms.schema.json",
   "title": "IGS Terminology Terms",
   "type": "array",
   "items": {
     "type": "object",
     "additionalProperties": false,
-    "required": ["term", "slug", "definition", "tags"],
+    "required": ["term", "slug", "definition", "tags", "versionAdded", "versionUpdated"],
     "properties": {
       "term": {
         "type": "string",
@@ -28,6 +28,14 @@
           "minLength": 1
         },
         "uniqueItems": true
+      },
+      "versionAdded": {
+        "type": "string",
+        "pattern": "^\\d+\\.\\d+\\.\\d+$"
+      },
+      "versionUpdated": {
+        "type": "string",
+        "pattern": "^\\d+\\.\\d+\\.\\d+$"
       },
       "aliases": {
         "type": "array",
@@ -60,21 +68,6 @@
               "type": "string",
               "format": "uri"
             }
-          }
-        }
-      },
-      "history": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": ["added"],
-        "properties": {
-          "added": {
-            "type": "string",
-            "format": "date"
-          },
-          "updated": {
-            "type": "string",
-            "format": "date"
           }
         }
       }

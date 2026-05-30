@@ -16,7 +16,9 @@
       "Electronic Voice Phenomenon",
       "Disembodied Voice",
       "Whispers"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   },
   {
     "term": "Disembodied Voice",
@@ -35,7 +37,9 @@
       "Electronic Voice Phenomenon",
       "Whispers",
       "Audio Phenomena"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   },
   {
     "term": "Electronic Voice Phenomenon",
@@ -53,7 +57,9 @@
     "related": [
       "Disembodied Voice",
       "Audio Phenomena"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   },
   {
     "term": "Ghost",
@@ -69,7 +75,9 @@
     ],
     "related": [
       "Paranormal"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   },
   {
     "term": "Paranormal",
@@ -84,7 +92,9 @@
     ],
     "related": [
       "Ghost"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   },
   {
     "term": "Whispers",
@@ -103,6 +113,8 @@
       "Electronic Voice Phenomenon",
       "Disembodied Voice",
       "Audio Phenomena"
-    ]
+    ],
+    "versionAdded": "0.1.0",
+    "versionUpdated": "0.1.0"
   }
 ]

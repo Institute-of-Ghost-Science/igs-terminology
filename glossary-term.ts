@@ -3,18 +3,14 @@ export interface GlossaryTerm {
   slug: string;
   definition: string;
   tags: string[];
+  versionAdded: string;
+  versionUpdated: string;
   aliases?: string[];
   related?: string[];
   references?: GlossaryReference[];
-  history?: GlossaryHistory;
 }
 
 export interface GlossaryReference {
   label: string;
   url?: string;
-}
-
-export interface GlossaryHistory {
-  added: string;
-  updated?: string;
 }
