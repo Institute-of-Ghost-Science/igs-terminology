@@ -1,6 +1,6 @@
 # Institute of Ghost Science Terminology
 
-This repository contains the public terminology standards used by the Institute of Ghost Science website.
+This repository contains the public terminology standards used by the Institute of Ghost Science.
 
 The terminology is maintained as a living document. Changes should preserve stable slugs where possible so links, exports, and downstream consumers do not break unexpectedly.
 
@@ -14,17 +14,17 @@ The terminology is maintained as a living document. Changes should preserve stab
 
 Each term requires:
 
-- `term`
-- `slug`
-- `definition`
-- `tags`
+- `term` - the display name for the concept.
+- `slug` - a stable lowercase kebab-case identifier for links, exports, and references.
+- `definition` - the Institute of Ghost Science meaning for the term.
+- `tags` - reusable labels that group the term by role, category, or usage.
 
 Optional fields:
 
-- `aliases`
-- `related`
-- `references`
-- `history`
+- `aliases` - alternate names, abbreviations, spellings, or common variants.
+- `related` - exact term names that connect this term to nearby concepts.
+- `references` - source labels and optional URLs that support or contextualize the term.
+- `history` - dates for when the term was added or last revised.
 
 ## Slug Guidance
 
