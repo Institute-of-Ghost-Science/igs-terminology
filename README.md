@@ -45,6 +45,10 @@ Avoid renaming an existing slug unless the term itself is being intentionally re
 
 The website consumes this repository as its terminology source. The website currently expects `terms.json` and `glossary-term.ts` to remain at the repository root.
 
+## License
+
+The terminology is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
 ## Validation
 
 Run the structural validator before committing terminology changes:
