@@ -7,6 +7,7 @@ The terminology is maintained as a living document. Changes should preserve stab
 ## Files
 
 - `terms.json` - canonical terminology data
+- `terms.csv` - term-and-definition export
 - `glossary-term.ts` - TypeScript shape used by the website
 - `VERSION_HISTORY.md` - version notes for public terminology releases
 - `schema/terms.schema.json` - JSON Schema for validating the data shape
@@ -50,4 +51,10 @@ Run the structural validator before committing terminology changes:
 
 ```sh
 node scripts/validate-terms.mjs
+```
+
+Regenerate the CSV export after changing `terms.json`:
+
+```sh
+node scripts/generate-csv.mjs
 ```
