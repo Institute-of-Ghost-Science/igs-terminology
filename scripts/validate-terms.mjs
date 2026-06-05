@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 const terms = JSON.parse(readFileSync(new URL('../terms.json', import.meta.url), 'utf8'));
+const metadata = JSON.parse(readFileSync(new URL('../metadata.json', import.meta.url), 'utf8'));
 const problems = [];
 const slugs = new Set();
 const termNames = new Set();
@@ -64,6 +65,34 @@ if (!Array.isArray(terms)) {
         }
       }
     }
+  }
+}
+
+if (!metadata || typeof metadata !== 'object' || Array.isArray(metadata)) {
+  problems.push('metadata.json must contain an object.');
+} else {
+  for (const field of ['version', 'released', 'license', 'licenseUrl', 'schemaVersion', 'termCount']) {
+    if (!(field in metadata)) {
+      problems.push(`metadata.json: missing ${field}.`);
+    }
+  }
+
+  for (const field of ['version', 'schemaVersion']) {
+    if (typeof metadata[field] === 'string' && !/^\d+\.\d+\.\d+$/.test(metadata[field])) {
+      problems.push(`metadata.json: ${field} must use semantic version format, such as 0.4.0.`);
+    }
+  }
+
+  if (typeof metadata.released === 'string' && !/^\d{4}-\d{2}-\d{2}$/.test(metadata.released)) {
+    problems.push('metadata.json: released must use YYYY-MM-DD format.');
+  }
+
+  if (typeof metadata.licenseUrl === 'string' && !/^https?:\/\//.test(metadata.licenseUrl)) {
+    problems.push('metadata.json: licenseUrl must be an HTTP(S) URL.');
+  }
+
+  if (Number.isInteger(metadata.termCount) && Array.isArray(terms) && metadata.termCount !== terms.length) {
+    problems.push(`metadata.json: termCount is ${metadata.termCount}, expected ${terms.length}.`);
   }
 }
 

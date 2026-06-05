@@ -8,9 +8,21 @@ The terminology is maintained as a living document. Changes should preserve stab
 
 - `terms.json` - canonical terminology data
 - `terms.csv` - term-and-definition export
+- `metadata.json` - release metadata for the terminology data
 - `glossary-term.ts` - TypeScript shape used by the website
 - `VERSION_HISTORY.md` - version notes for public terminology releases
 - `schema/terms.schema.json` - JSON Schema for validating the data shape
+
+## Metadata
+
+The `metadata.json` file describes the current terminology release:
+
+- `version` - the current terminology release version.
+- `released` - the release date in `YYYY-MM-DD` format.
+- `license` - the short license identifier.
+- `licenseUrl` - the canonical license URL.
+- `schemaVersion` - the metadata/data schema version used by this release.
+- `termCount` - the number of terms in `terms.json`.
 
 ## Term Shape
 
