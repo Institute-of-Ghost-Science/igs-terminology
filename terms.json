@@ -1,5 +1,47 @@
 [
   {
+    "term": "Ambient Temperature Deviation Detection",
+    "slug": "ambient-temperature-deviation-detection",
+    "definition": "Detection of deviations from ambient temperature, usually using a device that measures or records temperature changes.",
+    "tags": [
+      "Equipment",
+      "Measurement",
+      "Environmental Factor"
+    ],
+    "aliases": [
+      "ATDD",
+      "Temperature deviation detection",
+      "Ambient temperature deviation",
+      "Cold spots",
+      "Hot spots"
+    ],
+    "related": [
+      "Temperature Changes"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
+    "term": "Anomalous Activity",
+    "slug": "anomalous-activity",
+    "definition": "Activity, evidence, or conditions that differ from what is expected and have not yet been explained.",
+    "tags": [
+      "Common Term",
+      "Evidence",
+      "Foundational Concept"
+    ],
+    "aliases": [
+      "Anomaly",
+      "Anomalous event"
+    ],
+    "related": [
+      "Paranormal",
+      "Supernatural"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
     "term": "Apparition",
     "slug": "apparition",
     "definition": "A visual phenomenon interpreted as a person, figure, animal, object, or presence that is not ordinarily visible or physically accounted for at the time of observation.",
@@ -44,6 +86,25 @@
     ],
     "versionAdded": "0.1.0",
     "versionUpdated": "0.1.0"
+  },
+  {
+    "term": "Compromised Evidence",
+    "slug": "compromised-evidence",
+    "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
+    "tags": [
+      "Evidence",
+      "Evidence Review",
+      "Instrumentation"
+    ],
+    "aliases": [
+      "Unusable evidence",
+      "Contaminated evidence"
+    ],
+    "related": [
+      "Environmental Contamination"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
   },
   {
     "term": "Disembodied Voice",
@@ -110,6 +171,48 @@
     "versionUpdated": "0.2.0"
   },
   {
+    "term": "EMF Meter",
+    "slug": "emf-meter",
+    "definition": "A device used to measure electromagnetic fields or changes in electromagnetic field strength.",
+    "tags": [
+      "Common Term",
+      "Equipment",
+      "Measurement"
+    ],
+    "aliases": [
+      "Electromagnetic field meter",
+      "EMF detector",
+      "K-II meter",
+      "K2 meter"
+    ],
+    "related": [
+      "Electromagnetic Field",
+      "EMF Spike",
+      "TriField Meter"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
+    "term": "Environmental Contamination",
+    "slug": "environmental-contamination",
+    "definition": "An environmental condition or factor that may affect, distort, or inhibit analysis of reported or recorded activity.",
+    "tags": [
+      "Evidence",
+      "Environmental Factor",
+      "Natural Explanation"
+    ],
+    "aliases": [
+      "Environmental interference",
+      "Noise"
+    ],
+    "related": [
+      "Compromised Evidence"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
     "term": "Electronic Voice Phenomenon",
     "slug": "electronic-voice-phenomenon",
     "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
@@ -150,6 +253,47 @@
     "versionUpdated": "0.2.0"
   },
   {
+    "term": "Haunting",
+    "slug": "haunting",
+    "definition": "A case of unexplained activity associated with a person, place, or object.",
+    "tags": [
+      "Common Term",
+      "Phenomenon Type"
+    ],
+    "aliases": [
+      "Haunted activity"
+    ],
+    "related": [
+      "Anomalous Activity",
+      "Paranormal",
+      "Supernatural",
+      "Ghost"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
+    "term": "Intelligent Activity",
+    "slug": "intelligent-activity",
+    "definition": "Unexplained activity that appears to show awareness, intention, or purposeful behavior.",
+    "tags": [
+      "Common Term",
+      "Phenomenon Type"
+    ],
+    "aliases": [
+      "Interactive activity",
+      "Intelligent haunting"
+    ],
+    "related": [
+      "Paranormal",
+      "Supernatural",
+      "Ghost",
+      "Spirit"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
     "term": "Infrasound",
     "slug": "infrasound",
     "definition": "Sound below the usual lower limit of human hearing that has been known to cause physical symptoms, including discomfort, unease, vibration, or other reported experiences.",
@@ -168,6 +312,24 @@
     ],
     "versionAdded": "0.2.0",
     "versionUpdated": "0.2.0"
+  },
+  {
+    "term": "Instrumental Trans-Communication",
+    "slug": "instrumental-trans-communication",
+    "definition": "The use of devices, usually electronic, to attempt communication in the context of paranormal activity.",
+    "tags": [
+      "Research Term"
+    ],
+    "aliases": [
+      "ITC",
+      "Instrumental transcommunication"
+    ],
+    "related": [
+      "Spirit Box",
+      "Electronic Voice Phenomenon"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
   },
   {
     "term": "Mists",
@@ -280,6 +442,25 @@
     "versionUpdated": "0.2.0"
   },
   {
+    "term": "Recurrent Activity",
+    "slug": "recurrent-activity",
+    "definition": "Unexplained activity that appears to repeat in a similar way over time without showing awareness, intention, or purposeful behavior.",
+    "tags": [
+      "Common Term",
+      "Phenomenon Type"
+    ],
+    "aliases": [
+      "Residual activity"
+    ],
+    "related": [
+      "Intelligent Activity",
+      "Paranormal",
+      "Supernatural"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
     "term": "Shadow People",
     "slug": "shadow-people",
     "definition": "A common term for dark, shadow-like figures reported as human-shaped or presence-like, commonly lacking clear features or seen briefly, peripherally, or under low-light conditions.",
@@ -325,6 +506,51 @@
     "versionUpdated": "0.2.0"
   },
   {
+    "term": "Spirit Box",
+    "slug": "spirit-box",
+    "definition": "A device or application used to generate audio or words that may be reviewed for possible responses or anomalous content.",
+    "tags": [
+      "Common Term",
+      "Equipment",
+      "Audio Phenomenon"
+    ],
+    "aliases": [
+      "Ghost box",
+      "Radio sweep",
+      "Word bank",
+      "Spirit box app",
+      "Broken radio",
+      "Ovilus",
+      "Alice Box"
+    ],
+    "related": [
+      "Electronic Voice Phenomenon",
+      "Audio Phenomena",
+      "Compromised Evidence"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
+    "term": "Supernatural",
+    "slug": "supernatural",
+    "definition": "A broad term for phenomena interpreted as existing beyond the known laws of nature or not fully explained by them.",
+    "tags": [
+      "Common Term",
+      "Foundational Concept"
+    ],
+    "aliases": [
+      "Supernatural claim"
+    ],
+    "related": [
+      "Paranormal",
+      "Ghost",
+      "Spirit"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
+  },
+  {
     "term": "Temperature Changes",
     "slug": "temperature-changes",
     "definition": "Reported or measured shifts in ambient temperature, surface temperature, or perceived heat or cold, commonly referred to as cold spots or hot spots.",
@@ -345,6 +571,28 @@
     ],
     "versionAdded": "0.2.0",
     "versionUpdated": "0.2.0"
+  },
+  {
+    "term": "TriField Meter",
+    "slug": "trifield-meter",
+    "definition": "A meter commonly used to detect or measure AC magnetic fields, AC electric fields, and RF or microwave signals.",
+    "tags": [
+      "Equipment",
+      "Measurement"
+    ],
+    "aliases": [
+      "Tri-field meter",
+      "Trifield meter",
+      "TriField",
+      "TF2"
+    ],
+    "related": [
+      "EMF Meter",
+      "Electromagnetic Field",
+      "EMF Spike"
+    ],
+    "versionAdded": "0.3.0",
+    "versionUpdated": "0.3.0"
   },
   {
     "term": "Visual Phenomena",
