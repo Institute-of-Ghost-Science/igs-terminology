@@ -1,6 +1,22 @@
 # Version History
 
-## 0.2.0
+## 0.4.0 - 2026-06-05
+
+Expanded terminology for the current public release.
+
+- Added more environmental, equipment, investigative, and reporting terms.
+- Updated the root metadata release to version 0.4.0.
+- Increased the public glossary to 44 terms.
+
+## 0.3.0 - 2026-06-04
+
+Added paranormal investigation terminology.
+
+- Added additional investigation and evidence terms.
+- Expanded the public glossary to 30 terms.
+- Continued using version fields for term-level release history.
+
+## 0.2.0 - 2026-06-01
 
 Expanded public terminology draft.
 
@@ -8,7 +24,7 @@ Expanded public terminology draft.
 - Added visual phenomena and EMF spike terminology.
 - Revised related terms and aliases for the expanded glossary.
 
-## 0.1.0
+## 0.1.0 - 2026-05-30
 
 Initial public terminology draft.
 

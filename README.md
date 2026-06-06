@@ -10,6 +10,7 @@ The terminology is maintained as a living document. Changes should preserve stab
 - `terms.csv` - term-and-definition export
 - `metadata.json` - release metadata for the terminology data
 - `glossary-term.ts` - TypeScript shape used by the website
+- `versions/` - archived terminology releases
 - `VERSION_HISTORY.md` - version notes for public terminology releases
 - `schema/terms.schema.json` - JSON Schema for validating the data shape
 
@@ -56,6 +57,16 @@ Avoid renaming an existing slug unless the term itself is being intentionally re
 ## Website Usage
 
 The website consumes this repository as its terminology source. The website currently expects `terms.json` and `glossary-term.ts` to remain at the repository root.
+
+## Previous Versions
+
+Previous terminology releases are archived in `versions/`:
+
+- `versions/0.1.0/`
+- `versions/0.2.0/`
+- `versions/0.3.0/`
+
+Each archived release includes `terms.json`, `terms.csv`, and `metadata.json`. The root files represent the current release.
 
 ## License
 
