@@ -1,5 +1,14 @@
 # Version History
 
+## 0.5.0 - 2026-06-06
+
+Expanded terminology for evidence review, investigation techniques, and entity-related language.
+
+- Added attachment, debunking, false positive, trigger object, call and response, and provoking terms.
+- Added residual haunting as an alias for recurrent activity.
+- Updated the root metadata release to version 0.5.0.
+- Increased the public glossary to 50 terms.
+
 ## 0.4.0 - 2026-06-05
 
 Expanded terminology for the current public release.
