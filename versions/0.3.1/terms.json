@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.5.1",
+    "version": "0.3.1",
     "released": "2026-06-07",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 50
+    "termCount": 30
   },
   "terms": [
     {
@@ -53,28 +53,6 @@
       "versionUpdated": "0.3.0"
     },
     {
-      "term": "Apophenia",
-      "slug": "apophenia",
-      "definition": "The perception of meaningful patterns, connections, or significance in unrelated or random information.",
-      "tags": [
-        "Evidence Review",
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "aliases": [
-        "Pattern perception",
-        "False pattern recognition",
-        "Meaningful pattern perception"
-      ],
-      "related": [
-        "Pareidolia",
-        "Auditory Illusion",
-        "Electronic Voice Phenomenon"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
       "term": "Apparition",
       "slug": "apparition",
       "definition": "A visual phenomenon interpreted as a person, figure, animal, object, or presence that is not ordinarily visible or physically accounted for at the time of observation.",
@@ -99,30 +77,6 @@
       "versionUpdated": "0.2.0"
     },
     {
-      "term": "Attachment",
-      "slug": "attachment",
-      "definition": "The idea that paranormal activity can be connected or attached to a person, place, object, or presence.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type",
-        "Entity Term"
-      ],
-      "aliases": [
-        "Spirit attachment",
-        "Spiritual attachment",
-        "Entity attachment",
-        "Attached spirit"
-      ],
-      "related": [
-        "Ghost",
-        "Spirit",
-        "Haunting",
-        "Anomalous Activity"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
       "term": "Audio Phenomena",
       "slug": "audio-phenomena",
       "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
@@ -145,121 +99,6 @@
       "versionUpdated": "0.1.0"
     },
     {
-      "term": "Auditory Illusion",
-      "slug": "auditory-illusion",
-      "definition": "The perception or interpretation of unclear or ambiguous audio as meaningful sound or language.",
-      "tags": [
-        "Audio Phenomenon",
-        "Evidence Review",
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "aliases": [
-        "Auditory pareidolia",
-        "Mondegreen",
-        "Misheard words",
-        "Misheard phrase"
-      ],
-      "related": [
-        "Pareidolia",
-        "Electronic Voice Phenomenon",
-        "Disembodied Voice",
-        "Whispers"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Baseline Reading",
-      "slug": "baseline-reading",
-      "definition": "An initial measurement or observation recorded before an investigation or controlled test, used as a comparison point to help identify anomalies or changes in conditions.",
-      "tags": [
-        "Measurement",
-        "Evidence Review",
-        "Research"
-      ],
-      "aliases": [
-        "Baseline",
-        "Initial reading",
-        "Control"
-      ],
-      "related": [
-        "Environmental Contamination",
-        "Compromised Evidence"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Battery Drain",
-      "slug": "battery-drain",
-      "definition": "An unexpected loss of battery charge treated as anomalous activity or as evidence of it.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Battery loss",
-        "Power drain",
-        "Energy drain",
-        "Drained battery"
-      ],
-      "related": [
-        "Energy",
-        "Anomalous Activity"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Cat Balls",
-      "slug": "cat-balls",
-      "definition": "Motion-activated light-up balls, often sold as pet toys, used during investigations as visible indicators of movement or vibration.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Cat ball",
-        "Cat toy",
-        "Motion ball",
-        "Light-up ball",
-        "Devil's Marble"
-      ],
-      "related": [
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Call and Response",
-      "slug": "call-and-response",
-      "definition": "A technique that prompts for a response, frequently by asking a question or making a noise, then monitors for a response.",
-      "tags": [
-        "Common Term",
-        "Research",
-        "Technique"
-      ],
-      "aliases": [
-        "Call-and-response",
-        "Question and response",
-        "Response session"
-      ],
-      "related": [
-        "Intelligent Activity",
-        "Electronic Voice Phenomenon",
-        "Disembodied Voice",
-        "Spirit Box",
-        "Instrumental Trans-Communication",
-        "Provoking"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
       "term": "Compromised Evidence",
       "slug": "compromised-evidence",
       "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
@@ -277,52 +116,6 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
-    },
-    {
-      "term": "Data Logger",
-      "slug": "data-logger",
-      "definition": "A device used to record multiple measurements or environmental conditions over time for later review.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Measurement",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Logger",
-        "Environmental logger"
-      ],
-      "related": [
-        "Baseline Reading",
-        "Environmental Contamination",
-        "Temperature Changes",
-        "Electromagnetic Field"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Debunking",
-      "slug": "debunking",
-      "definition": "The process of disproving a claim that specific activity, evidence, or an experience is or was paranormal in origin.",
-      "tags": [
-        "Evidence Review",
-        "Natural Explanation",
-        "Research"
-      ],
-      "aliases": [
-        "Debunk",
-        "Disproving a claim"
-      ],
-      "related": [
-        "Paranormal",
-        "Anomalous Activity",
-        "Compromised Evidence",
-        "Environmental Contamination",
-        "False Positive"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "Disembodied Voice",
@@ -368,24 +161,25 @@
       "versionUpdated": "0.2.0"
     },
     {
-      "term": "Electronic Voice Phenomenon",
-      "slug": "electronic-voice-phenomenon",
-      "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
+      "term": "EMF Spike",
+      "slug": "emf-spike",
+      "definition": "A sudden or notable increase in an EMF reading during an investigation that may be interpreted as possible evidence of paranormal activity.",
       "tags": [
-        "Common Term",
-        "Audio Phenomenon",
-        "Recorded"
+        "Measurement",
+        "Instrument Reading",
+        "Environmental Factor"
       ],
       "aliases": [
-        "EVP",
-        "Electronic voice phenomena"
+        "Electromagnetic field spike",
+        "EMF fluctuation",
+        "EMF anomaly"
       ],
       "related": [
-        "Disembodied Voice",
-        "Audio Phenomena"
+        "Electromagnetic Field",
+        "Paranormal"
       ],
-      "versionAdded": "0.1.0",
-      "versionUpdated": "0.1.0"
+      "versionAdded": "0.2.0",
+      "versionUpdated": "0.2.0"
     },
     {
       "term": "EMF Meter",
@@ -411,52 +205,6 @@
       "versionUpdated": "0.3.0"
     },
     {
-      "term": "EMF Spike",
-      "slug": "emf-spike",
-      "definition": "A sudden or notable increase in an EMF reading during an investigation that may be interpreted as possible evidence of paranormal activity.",
-      "tags": [
-        "Measurement",
-        "Instrument Reading",
-        "Environmental Factor"
-      ],
-      "aliases": [
-        "Electromagnetic field spike",
-        "EMF fluctuation",
-        "EMF anomaly"
-      ],
-      "related": [
-        "Electromagnetic Field",
-        "Paranormal"
-      ],
-      "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
-    },
-    {
-      "term": "Energy",
-      "slug": "energy",
-      "definition": "A commonly used term for describing or explaining a wide variety of anomalous activity.",
-      "tags": [
-        "Common Term"
-      ],
-      "aliases": [
-        "Spiritual energy",
-        "Paranormal energy",
-        "Residual energy",
-        "Demonic energy",
-        "Negative energy"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Paranormal",
-        "Supernatural",
-        "Electromagnetic Field",
-        "Temperature Changes",
-        "Battery Drain"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
       "term": "Environmental Contamination",
       "slug": "environmental-contamination",
       "definition": "An environmental condition or factor that may affect, distort, or inhibit analysis of reported or recorded activity.",
@@ -476,28 +224,24 @@
       "versionUpdated": "0.3.0"
     },
     {
-      "term": "False Positive",
-      "slug": "false-positive",
-      "definition": "Evidence that appears to indicate anomalous activity but is later explained by ordinary causes.",
+      "term": "Electronic Voice Phenomenon",
+      "slug": "electronic-voice-phenomenon",
+      "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
       "tags": [
-        "Evidence Review",
-        "Natural Explanation",
-        "Research"
+        "Common Term",
+        "Audio Phenomenon",
+        "Recorded"
       ],
       "aliases": [
-        "False alarm",
-        "Misidentified anomaly"
+        "EVP",
+        "Electronic voice phenomena"
       ],
       "related": [
-        "Anomalous Activity",
-        "Compromised Evidence",
-        "Environmental Contamination",
-        "Debunking",
-        "Pareidolia",
-        "Auditory Illusion"
+        "Disembodied Voice",
+        "Audio Phenomena"
       ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
     },
     {
       "term": "Ghost",
@@ -540,26 +284,25 @@
       "versionUpdated": "0.3.0"
     },
     {
-      "term": "Infrared Camera",
-      "slug": "infrared-camera",
-      "definition": "A camera that records infrared light, used to document visual information outside normal visible-light conditions.",
+      "term": "Intelligent Activity",
+      "slug": "intelligent-activity",
+      "definition": "Unexplained activity that appears to show awareness, intention, or purposeful behavior.",
       "tags": [
         "Common Term",
-        "Equipment",
-        "Visual Phenomenon",
-        "Measurement"
+        "Phenomenon Type"
       ],
       "aliases": [
-        "IR camera",
-        "Infrared video camera",
-        "Night vision camera"
+        "Interactive activity",
+        "Intelligent haunting"
       ],
       "related": [
-        "Visual Phenomena",
-        "Data Logger"
+        "Paranormal",
+        "Supernatural",
+        "Ghost",
+        "Spirit"
       ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionAdded": "0.3.0",
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "Infrasound",
@@ -586,7 +329,7 @@
       "slug": "instrumental-trans-communication",
       "definition": "The use of devices, usually electronic, to attempt communication in the context of paranormal activity.",
       "tags": [
-        "Research"
+        "Research Term"
       ],
       "aliases": [
         "ITC",
@@ -597,53 +340,7 @@
         "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Intelligent Activity",
-      "slug": "intelligent-activity",
-      "definition": "Unexplained activity that appears to show awareness, intention, or purposeful behavior.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type"
-      ],
-      "aliases": [
-        "Interactive activity",
-        "Intelligent haunting"
-      ],
-      "related": [
-        "Paranormal",
-        "Supernatural",
-        "Ghost",
-        "Spirit"
-      ],
-      "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
-    },
-    {
-      "term": "Laser Grid",
-      "slug": "laser-grid",
-      "definition": "A projected pattern of laser points or lines, or the device that produces it, used as a visible reference for detecting movement or visual disturbances.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Visual Phenomenon"
-      ],
-      "aliases": [
-        "Laser grid pen",
-        "Laser grid projector",
-        "Laser matrix",
-        "Light grid"
-      ],
-      "related": [
-        "Visual Phenomena",
-        "Infrared Camera",
-        "SLS Camera",
-        "Cat Balls",
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
     },
     {
       "term": "Mists",
@@ -692,26 +389,27 @@
       "versionUpdated": "0.2.0"
     },
     {
-      "term": "Ouija",
-      "slug": "ouija",
-      "definition": "A board or similar surface marked with letters, numbers, and other indicators, used with a planchette or pointer in attempts to receive messages or responses.",
+      "term": "Pareidolia",
+      "slug": "pareidolia",
+      "definition": "The perception of meaningful patterns, faces, figures, words, or voices in ambiguous or random sensory information.",
       "tags": [
-        "Common Term",
-        "Equipment"
+        "Perceptual Factor",
+        "Evidence Review",
+        "Natural Explanation"
       ],
       "aliases": [
-        "Ouija board",
-        "Spirit board",
-        "Talking board",
-        "Message board"
+        "Pattern perception",
+        "Matrixing"
       ],
       "related": [
-        "Instrumental Trans-Communication",
-        "Spirit Box",
-        "Psychography"
+        "Apparition",
+        "Shadow People",
+        "Orbs",
+        "Mists",
+        "Paranormal"
       ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionAdded": "0.2.0",
+      "versionUpdated": "0.2.0"
     },
     {
       "term": "Paranormal",
@@ -741,7 +439,7 @@
       "tags": [
         "Field of Study",
         "Foundational Concept",
-        "Research"
+        "Research Term"
       ],
       "aliases": [
         "Psi research",
@@ -752,74 +450,7 @@
         "Spirit"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Pareidolia",
-      "slug": "pareidolia",
-      "definition": "The perception of meaningful patterns, faces, figures, words, or voices in ambiguous or random sensory information.",
-      "tags": [
-        "Perceptual Factor",
-        "Evidence Review",
-        "Natural Explanation"
-      ],
-      "aliases": [
-        "Pattern perception",
-        "Matrixing"
-      ],
-      "related": [
-        "Apparition",
-        "Shadow People",
-        "Orbs",
-        "Mists",
-        "Paranormal"
-      ],
-      "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
-    },
-    {
-      "term": "Psychography",
-      "slug": "psychography",
-      "definition": "Writing or written marks produced while a person holds a pen, pencil, marker, or other writing instrument and reports that they are not consciously moving it.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type",
-        "Research"
-      ],
-      "aliases": [
-        "Automatic writing",
-        "Spirit writing"
-      ],
-      "related": [
-        "Ouija",
-        "Instrumental Trans-Communication",
-        "Spirit"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Provoking",
-      "slug": "provoking",
-      "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response from reported activity.",
-      "tags": [
-        "Common Term",
-        "Research",
-        "Technique"
-      ],
-      "aliases": [
-        "Provocation",
-        "Provoking method"
-      ],
-      "related": [
-        "Call and Response",
-        "Intelligent Activity",
-        "Anomalous Activity",
-        "Disembodied Voice",
-        "Electronic Voice Phenomenon"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "Recurrent Activity",
@@ -830,8 +461,7 @@
         "Phenomenon Type"
       ],
       "aliases": [
-        "Residual activity",
-        "Residual haunting"
+        "Residual activity"
       ],
       "related": [
         "Intelligent Activity",
@@ -839,31 +469,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
-      "term": "REM Pod",
-      "slug": "rem-pod",
-      "definition": "A device that emits an electromagnetic field from its antenna and detects changes to that field, often producing lights or sounds when changes are detected.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Instrument Reading",
-        "Measurement"
-      ],
-      "aliases": [
-        "Radiating electromagneticity pod",
-        "REM-Pod",
-        "REM pod device"
-      ],
-      "related": [
-        "Electromagnetic Field",
-        "EMF Spike",
-        "EMF Meter",
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "Shadow People",
@@ -888,31 +494,6 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
-    },
-    {
-      "term": "SLS Camera",
-      "slug": "sls-camera",
-      "definition": "A camera system that uses projected infrared light points and software to interpret human-shaped forms, often displaying them as stick figures.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Visual Phenomenon",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Structured light sensor camera",
-        "Structured light camera",
-        "Kinect camera",
-        "Stick figure camera"
-      ],
-      "related": [
-        "Infrared Camera",
-        "Laser Grid",
-        "Visual Phenomena",
-        "Pareidolia"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
     },
     {
       "term": "Spirit",
@@ -1001,51 +582,6 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
-    },
-    {
-      "term": "Thermal Camera",
-      "slug": "thermal-camera",
-      "definition": "A camera that detects infrared radiation and displays or records temperature differences as an image.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Measurement",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Thermal imaging camera",
-        "Thermal imager",
-        "FLIR camera"
-      ],
-      "related": [
-        "Infrared Camera",
-        "Temperature Changes",
-        "Data Logger",
-        "Ambient Temperature Deviation Detection"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Trigger Object",
-      "slug": "trigger-object",
-      "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Research"
-      ],
-      "aliases": [
-        "Trigger item",
-        "Target object"
-      ],
-      "related": [
-        "Intelligent Activity",
-        "Anomalous Activity",
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "TriField Meter",

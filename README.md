@@ -8,7 +8,6 @@ The terminology is maintained as a living document. Changes should preserve stab
 
 - `terms.json` - canonical terminology data
 - `terms.csv` - term-and-definition export
-- `metadata.json` - release metadata for the terminology data
 - `glossary-term.ts` - TypeScript shape used by the website
 - `versions/` - archived terminology releases
 - `VERSION_HISTORY.md` - version notes for public terminology releases
@@ -16,18 +15,40 @@ The terminology is maintained as a living document. Changes should preserve stab
 
 ## Metadata
 
-The `metadata.json` file describes the current terminology release:
+The `metadata` object in `terms.json` describes the current terminology release:
 
 - `version` - the current terminology release version.
 - `released` - the release date in `YYYY-MM-DD` format.
+- `author` - the organization that publishes the terminology.
+- `repositoryUrl` - the canonical GitHub repository for the terminology data.
 - `license` - the short license identifier.
 - `licenseUrl` - the canonical license URL.
 - `schemaVersion` - the metadata/data schema version used by this release.
-- `termCount` - the number of terms in `terms.json`.
+- `termCount` - the number of terms in `terms`.
+
+## Data Shape
+
+The canonical `terms.json` file contains both release metadata and the term list:
+
+```json
+{
+  "metadata": {
+    "version": "0.5.1",
+    "released": "2026-06-07",
+    "author": "Institute of Ghost Science",
+    "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "schemaVersion": "2.0.0",
+    "termCount": 50
+  },
+  "terms": []
+}
+```
 
 ## Term Shape
 
-Each term requires:
+Each item in `terms` requires:
 
 - `term` - the display name for the concept.
 - `slug` - a stable lowercase kebab-case identifier for links, exports, and references.
@@ -56,17 +77,18 @@ Avoid renaming an existing slug unless the term itself is being intentionally re
 
 ## Website Usage
 
-The website consumes this repository as its terminology source. The website currently expects `terms.json` and `glossary-term.ts` to remain at the repository root.
+The website consumes this repository as its terminology source. Consumers should read the glossary entries from the `terms` array in the root `terms.json` file.
 
 ## Previous Versions
 
 Previous terminology releases are archived in `versions/`:
 
-- `versions/0.1.0/`
-- `versions/0.2.0/`
-- `versions/0.3.0/`
+- `versions/0.1.1/`
+- `versions/0.2.1/`
+- `versions/0.3.1/`
+- `versions/0.4.1/`
 
-Each archived release includes `terms.json`, `terms.csv`, and `metadata.json`. The root files represent the current release.
+Each archived release includes `terms.json` with embedded metadata and `terms.csv`. The root files represent the current release.
 
 ## License
 

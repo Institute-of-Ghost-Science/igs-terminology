@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.5.1",
+    "version": "0.4.1",
     "released": "2026-06-07",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 50
+    "termCount": 44
   },
   "terms": [
     {
@@ -97,30 +97,6 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
-    },
-    {
-      "term": "Attachment",
-      "slug": "attachment",
-      "definition": "The idea that paranormal activity can be connected or attached to a person, place, object, or presence.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type",
-        "Entity Term"
-      ],
-      "aliases": [
-        "Spirit attachment",
-        "Spiritual attachment",
-        "Entity attachment",
-        "Attached spirit"
-      ],
-      "related": [
-        "Ghost",
-        "Spirit",
-        "Haunting",
-        "Anomalous Activity"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "Audio Phenomena",
@@ -235,31 +211,6 @@
       "versionUpdated": "0.4.0"
     },
     {
-      "term": "Call and Response",
-      "slug": "call-and-response",
-      "definition": "A technique that prompts for a response, frequently by asking a question or making a noise, then monitors for a response.",
-      "tags": [
-        "Common Term",
-        "Research",
-        "Technique"
-      ],
-      "aliases": [
-        "Call-and-response",
-        "Question and response",
-        "Response session"
-      ],
-      "related": [
-        "Intelligent Activity",
-        "Electronic Voice Phenomenon",
-        "Disembodied Voice",
-        "Spirit Box",
-        "Instrumental Trans-Communication",
-        "Provoking"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
       "term": "Compromised Evidence",
       "slug": "compromised-evidence",
       "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
@@ -300,29 +251,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Debunking",
-      "slug": "debunking",
-      "definition": "The process of disproving a claim that specific activity, evidence, or an experience is or was paranormal in origin.",
-      "tags": [
-        "Evidence Review",
-        "Natural Explanation",
-        "Research"
-      ],
-      "aliases": [
-        "Debunk",
-        "Disproving a claim"
-      ],
-      "related": [
-        "Paranormal",
-        "Anomalous Activity",
-        "Compromised Evidence",
-        "Environmental Contamination",
-        "False Positive"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "Disembodied Voice",
@@ -474,30 +402,6 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
-    },
-    {
-      "term": "False Positive",
-      "slug": "false-positive",
-      "definition": "Evidence that appears to indicate anomalous activity but is later explained by ordinary causes.",
-      "tags": [
-        "Evidence Review",
-        "Natural Explanation",
-        "Research"
-      ],
-      "aliases": [
-        "False alarm",
-        "Misidentified anomaly"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Compromised Evidence",
-        "Environmental Contamination",
-        "Debunking",
-        "Pareidolia",
-        "Auditory Illusion"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "Ghost",
@@ -799,29 +703,6 @@
       "versionUpdated": "0.4.0"
     },
     {
-      "term": "Provoking",
-      "slug": "provoking",
-      "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response from reported activity.",
-      "tags": [
-        "Common Term",
-        "Research",
-        "Technique"
-      ],
-      "aliases": [
-        "Provocation",
-        "Provoking method"
-      ],
-      "related": [
-        "Call and Response",
-        "Intelligent Activity",
-        "Anomalous Activity",
-        "Disembodied Voice",
-        "Electronic Voice Phenomenon"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
       "term": "Recurrent Activity",
       "slug": "recurrent-activity",
       "definition": "Unexplained activity that appears to repeat in a similar way over time without showing awareness, intention, or purposeful behavior.",
@@ -830,8 +711,7 @@
         "Phenomenon Type"
       ],
       "aliases": [
-        "Residual activity",
-        "Residual haunting"
+        "Residual activity"
       ],
       "related": [
         "Intelligent Activity",
@@ -839,7 +719,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "REM Pod",
@@ -1025,27 +905,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Trigger Object",
-      "slug": "trigger-object",
-      "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Research"
-      ],
-      "aliases": [
-        "Trigger item",
-        "Target object"
-      ],
-      "related": [
-        "Intelligent Activity",
-        "Anomalous Activity",
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
     },
     {
       "term": "TriField Meter",

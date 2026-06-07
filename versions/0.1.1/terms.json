@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "version": "0.1.1",
+    "released": "2026-06-07",
+    "author": "Institute of Ghost Science",
+    "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "schemaVersion": "2.0.0",
+    "termCount": 6
+  },
+  "terms": [
+    {
+      "term": "Audio Phenomena",
+      "slug": "audio-phenomena",
+      "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
+      "tags": [
+        "Category",
+        "Phenomenon Type",
+        "Audio Phenomenon"
+      ],
+      "aliases": [
+        "Auditory phenomena",
+        "Sound phenomena"
+      ],
+      "related": [
+        "Electronic Voice Phenomenon",
+        "Disembodied Voice",
+        "Whispers"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    },
+    {
+      "term": "Disembodied Voice",
+      "slug": "disembodied-voice",
+      "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
+      "tags": [
+        "Common Term",
+        "Audio Phenomenon",
+        "Witnessed"
+      ],
+      "aliases": [
+        "Unexplained voice",
+        "Voice anomaly"
+      ],
+      "related": [
+        "Electronic Voice Phenomenon",
+        "Whispers",
+        "Audio Phenomena"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    },
+    {
+      "term": "Electronic Voice Phenomenon",
+      "slug": "electronic-voice-phenomenon",
+      "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
+      "tags": [
+        "Common Term",
+        "Audio Phenomenon",
+        "Recorded"
+      ],
+      "aliases": [
+        "EVP",
+        "Electronic voice phenomena"
+      ],
+      "related": [
+        "Disembodied Voice",
+        "Audio Phenomena"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    },
+    {
+      "term": "Ghost",
+      "slug": "ghost",
+      "definition": "A common term for unexplained activity interpreted as involving a person, animal, object, place, or presence that is not ordinarily observable.",
+      "tags": [
+        "Common Term",
+        "Entity Term",
+        "Interpretive"
+      ],
+      "aliases": [
+        "Haunting spirit"
+      ],
+      "related": [
+        "Paranormal"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    },
+    {
+      "term": "Paranormal",
+      "slug": "paranormal",
+      "definition": "A broad term for something that appears to fall outside ordinary explanation based on the information currently available.",
+      "tags": [
+        "Common Term",
+        "Foundational Concept"
+      ],
+      "aliases": [
+        "Paranormal claim"
+      ],
+      "related": [
+        "Ghost"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    },
+    {
+      "term": "Whispers",
+      "slug": "whispers",
+      "definition": "Low-volume voice or speech-like sounds heard or recorded without an apparent source.",
+      "tags": [
+        "Common Term",
+        "Audio Phenomenon",
+        "Witnessed"
+      ],
+      "aliases": [
+        "Whispering",
+        "Low voice"
+      ],
+      "related": [
+        "Electronic Voice Phenomenon",
+        "Disembodied Voice",
+        "Audio Phenomena"
+      ],
+      "versionAdded": "0.1.0",
+      "versionUpdated": "0.1.0"
+    }
+  ]
+}

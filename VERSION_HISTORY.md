@@ -1,5 +1,15 @@
 # Version History
 
+## 0.5.1 - 2026-06-07
+
+Updated the terminology data format.
+
+- Embedded release metadata in `terms.json`.
+- Updated `terms.json` to contain `metadata` and `terms` top-level fields.
+- Added author and repository URL to release metadata.
+- Removed standalone `metadata.json` files from current and archived releases.
+- Updated archived releases to patch versions `0.1.1`, `0.2.1`, `0.3.1`, and `0.4.1`.
+
 ## 0.5.0 - 2026-06-06
 
 Expanded terminology for evidence review, investigation techniques, and entity-related language.

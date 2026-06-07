@@ -1,6 +1,12 @@
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const terms = JSON.parse(readFileSync(new URL('../terms.json', import.meta.url), 'utf8'));
+const terminology = JSON.parse(readFileSync(new URL('../terms.json', import.meta.url), 'utf8'));
+const terms = terminology.terms;
+
+if (!Array.isArray(terms)) {
+  throw new Error('terms.json must contain a terms array.');
+}
+
 const rows = [
   ['term', 'definition'],
   ...terms.map(term => [term.term, term.definition]),
