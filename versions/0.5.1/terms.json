@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.6.0",
-    "released": "2026-06-08",
+    "version": "0.5.1",
+    "released": "2026-06-07",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 71
+    "termCount": 50
   },
   "terms": [
     {
@@ -47,11 +47,10 @@
       ],
       "related": [
         "Paranormal",
-        "Supernatural",
-        "Footsteps"
+        "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "Apophenia",
@@ -74,28 +73,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Apport",
-      "slug": "apport",
-      "definition": "The reported appearance of an object without an immediately identified physical source.",
-      "tags": [
-        "Physical Phenomenon",
-        "Object Phenomenon"
-      ],
-      "aliases": [
-        "Apportation",
-        "Materialization",
-        "Object appearance"
-      ],
-      "related": [
-        "Asport",
-        "Poltergeist",
-        "Anomalous Activity",
-        "Trigger Object"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "Apparition",
@@ -122,28 +99,6 @@
       "versionUpdated": "0.2.0"
     },
     {
-      "term": "Asport",
-      "slug": "asport",
-      "definition": "The reported disappearance of an object without an immediately identified physical cause.",
-      "tags": [
-        "Physical Phenomenon",
-        "Object Phenomenon"
-      ],
-      "aliases": [
-        "Asportation",
-        "Dematerialization",
-        "Object disappearance"
-      ],
-      "related": [
-        "Apport",
-        "Poltergeist",
-        "Anomalous Activity",
-        "Trigger Object"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Attachment",
       "slug": "attachment",
       "definition": "The idea that paranormal activity can be connected or attached to a person, place, object, or presence.",
@@ -162,34 +117,10 @@
         "Ghost",
         "Spirit",
         "Haunting",
-        "Anomalous Activity",
-        "Possession",
-        "Exorcism",
-        "Demon"
+        "Anomalous Activity"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Aura",
-      "slug": "aura",
-      "definition": "A perceived field of energy surrounding a person, place, or object, sometimes represented as a glow.",
-      "tags": [
-        "Common Term",
-        "Visual Phenomenon",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Energy field",
-        "Personal energy",
-        "Spiritual field"
-      ],
-      "related": [
-        "Energy",
-        "Spirit"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.5.0"
     },
     {
       "term": "Audio Phenomena",
@@ -208,12 +139,10 @@
         "Electronic Voice Phenomenon",
         "Disembodied Voice",
         "Whispers",
-        "Infrasound",
-        "Knocking",
-        "Footsteps"
+        "Infrasound"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.1.0"
     },
     {
       "term": "Auditory Illusion",
@@ -284,52 +213,6 @@
       "versionUpdated": "0.4.0"
     },
     {
-      "term": "Benevolent",
-      "slug": "benevolent",
-      "definition": "Describes reported activity or presence perceived as helpful, protective, harmless, or positive in intent.",
-      "tags": [
-        "Common Term",
-        "Interpretation",
-        "Entity-Related"
-      ],
-      "aliases": [
-        "Friendly",
-        "Helpful",
-        "Protective",
-        "Positive",
-        "Benign"
-      ],
-      "related": [
-        "Malevolent",
-        "Spirit",
-        "Intelligent Activity",
-        "Haunting"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Bibliomancy",
-      "slug": "bibliomancy",
-      "definition": "A practice in which a book or written text is opened and a page, word, or passage is selected at random and interpreted for significance.",
-      "tags": [
-        "Common Term",
-        "Practice"
-      ],
-      "aliases": [
-        "Book divination",
-        "Text divination",
-        "Rhapsodomancy"
-      ],
-      "related": [
-        "Psychography",
-        "Ouija",
-        "Instrumental Trans-Communication"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Cat Balls",
       "slug": "cat-balls",
       "definition": "Motion-activated light-up balls, often sold as pet toys, used during investigations as visible indicators of movement or vibration.",
@@ -377,26 +260,6 @@
       "versionUpdated": "0.5.0"
     },
     {
-      "term": "Chain of Custody",
-      "slug": "chain-of-custody",
-      "definition": "Documentation of how evidence was collected, handled, stored, and reviewed.",
-      "tags": [
-        "Evidence",
-        "Documentation",
-        "Quality Control"
-      ],
-      "aliases": [
-        "Custody record",
-        "Evidence custody"
-      ],
-      "related": [
-        "Compromised Evidence",
-        "Corroboration"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Compromised Evidence",
       "slug": "compromised-evidence",
       "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
@@ -410,32 +273,10 @@
         "Contaminated evidence"
       ],
       "related": [
-        "Environmental Contamination",
-        "Chain of Custody"
+        "Environmental Contamination"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Corroboration",
-      "slug": "corroboration",
-      "definition": "Evidence from another witness or source that supports or aligns with a report or other evidence.",
-      "tags": [
-        "Evidence",
-        "Evidence Review",
-        "Reporting"
-      ],
-      "aliases": [
-        "Supporting evidence",
-        "Independent support"
-      ],
-      "related": [
-        "Personal Experience",
-        "Anomalous Activity",
-        "False Positive"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "Data Logger",
@@ -484,30 +325,6 @@
       "versionUpdated": "0.5.0"
     },
     {
-      "term": "Demon",
-      "slug": "demon",
-      "definition": "A nonhuman spiritual or supernatural entity commonly interpreted as harmful, hostile, deceptive, or malevolent.",
-      "tags": [
-        "Common Term",
-        "Entity Term",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Demonic entity",
-        "Demonic presence",
-        "Evil spirit"
-      ],
-      "related": [
-        "Malevolent",
-        "Spirit",
-        "Possession",
-        "Exorcism",
-        "Attachment"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Disembodied Voice",
       "slug": "disembodied-voice",
       "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
@@ -527,29 +344,6 @@
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
-    },
-    {
-      "term": "Dowsing Rods",
-      "slug": "dowsing-rods",
-      "definition": "Handheld rods believed to sometimes indicate paranormal activity by moving, crossing, or pointing.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Investigation Technique"
-      ],
-      "aliases": [
-        "Divining rods",
-        "Dowsing sticks",
-        "L-rods",
-        "Dowsing"
-      ],
-      "related": [
-        "Call and Response",
-        "Instrumental Trans-Communication",
-        "Intelligent Activity"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "Electromagnetic Field",
@@ -657,11 +451,10 @@
         "Supernatural",
         "Electromagnetic Field",
         "Temperature Changes",
-        "Battery Drain",
-        "Aura"
+        "Battery Drain"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.4.0"
     },
     {
       "term": "Environmental Contamination",
@@ -681,52 +474,6 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
-    },
-    {
-      "term": "Estes Method",
-      "slug": "estes-method",
-      "definition": "A technique in which a listener wearing headphones is isolated from outside visual and auditory cues and speaks words or sounds they hear from an audio-generating device such as a spirit box.",
-      "tags": [
-        "Technique",
-        "Investigation Technique",
-        "Audio Phenomenon"
-      ],
-      "aliases": [
-        "Estes technique",
-        "Estes session"
-      ],
-      "related": [
-        "Sensory Deprivation",
-        "Spirit Box",
-        "Call and Response",
-        "Instrumental Trans-Communication"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Exorcism",
-      "slug": "exorcism",
-      "definition": "A ritual or practice intended to remove, expel, or separate a spirit, entity, or other nonphysical presence from a person, place, or object.",
-      "tags": [
-        "Common Term",
-        "Practice",
-        "Entity-Related"
-      ],
-      "aliases": [
-        "Exorcism ritual",
-        "Spiritual cleansing",
-        "Deliverance"
-      ],
-      "related": [
-        "Possession",
-        "Attachment",
-        "Spirit",
-        "Malevolent",
-        "Demon"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "False Positive",
@@ -751,29 +498,6 @@
       ],
       "versionAdded": "0.5.0",
       "versionUpdated": "0.5.0"
-    },
-    {
-      "term": "Footsteps",
-      "slug": "footsteps",
-      "definition": "Sounds believed to be footsteps that are heard or recorded without an immediately identifiable source.",
-      "tags": [
-        "Common Term",
-        "Audio Phenomenon",
-        "Physical Phenomenon"
-      ],
-      "aliases": [
-        "Footstep sounds",
-        "Unexplained footsteps",
-        "Steps",
-        "Walking sounds"
-      ],
-      "related": [
-        "Knocking",
-        "Audio Phenomena",
-        "Anomalous Activity"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "Ghost",
@@ -897,31 +621,6 @@
       "versionUpdated": "0.3.0"
     },
     {
-      "term": "Knocking",
-      "slug": "knocking",
-      "definition": "Knocks, taps, bangs, or similar impact sounds that are heard or recorded without an immediately identifiable source.",
-      "tags": [
-        "Common Term",
-        "Audio Phenomenon",
-        "Physical Phenomenon"
-      ],
-      "aliases": [
-        "Knocks",
-        "Rapping",
-        "Raps",
-        "Taps",
-        "Bangs"
-      ],
-      "related": [
-        "Poltergeist",
-        "Audio Phenomena",
-        "Anomalous Activity",
-        "Footsteps"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Laser Grid",
       "slug": "laser-grid",
       "definition": "A projected pattern of laser points or lines, or the device that produces it, used as a visible reference for detecting movement or visual disturbances.",
@@ -945,34 +644,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Malevolent",
-      "slug": "malevolent",
-      "definition": "Describes reported activity or presence perceived as harmful, threatening, hostile, or negative in intent.",
-      "tags": [
-        "Common Term",
-        "Interpretation",
-        "Entity-Related"
-      ],
-      "aliases": [
-        "Hostile",
-        "Harmful",
-        "Threatening",
-        "Negative"
-      ],
-      "related": [
-        "Spirit",
-        "Intelligent Activity",
-        "Haunting",
-        "Benevolent",
-        "Demon",
-        "Possession",
-        "Exorcism",
-        "Scratches"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "Mists",
@@ -1107,95 +778,6 @@
       "versionUpdated": "0.2.0"
     },
     {
-      "term": "Personal Experience",
-      "slug": "personal-experience",
-      "definition": "A firsthand account of an event directly experienced by an individual that lacks corroborating evidence.",
-      "tags": [
-        "Evidence",
-        "Witness Account",
-        "Reporting"
-      ],
-      "aliases": [
-        "Witness account",
-        "Firsthand account",
-        "Personal account"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Corroboration"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Phantom Smells",
-      "slug": "phantom-smells",
-      "definition": "Odors perceived without an immediately identifiable source, commonly including smoke, perfume, or other distinctive smells.",
-      "tags": [
-        "Common Term",
-        "Personal Experience"
-      ],
-      "aliases": [
-        "Phantom odors",
-        "Unexplained smells",
-        "Clairolfaction"
-      ],
-      "related": [
-        "Personal Experience",
-        "Anomalous Activity",
-        "Haunting",
-        "Environmental Contamination"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Poltergeist",
-      "slug": "poltergeist",
-      "definition": "A type of reported anomalous activity characterized by physical disturbances such as object movement, knocking or banging sounds, or other physical events.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type",
-        "Anomalous Activity"
-      ],
-      "aliases": [
-        "Poltergeist activity",
-        "Noisy spirit"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Haunting",
-        "Knocking"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Possession",
-      "slug": "possession",
-      "definition": "A state in which a person is believed or interpreted to be influenced, controlled, or inhabited by a spirit, entity, or other nonphysical presence.",
-      "tags": [
-        "Common Term",
-        "Entity-Related",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Spirit possession",
-        "Entity possession",
-        "Possessed"
-      ],
-      "related": [
-        "Attachment",
-        "Spirit",
-        "Malevolent",
-        "Anomalous Activity",
-        "Exorcism",
-        "Demon"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Psychography",
       "slug": "psychography",
       "definition": "Writing or written marks produced while a person holds a pen, pencil, marker, or other writing instrument and reports that they are not consciously moving it.",
@@ -1282,52 +864,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Scratches",
-      "slug": "scratches",
-      "definition": "Scratches or marks on the skin that cannot immediately be explained and are interpreted as evidence of paranormal activity.",
-      "tags": [
-        "Evidence",
-        "Physical Phenomenon",
-        "Common Report"
-      ],
-      "aliases": [
-        "Scratch marks",
-        "Unexplained scratches",
-        "Skin marks"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Personal Experience",
-        "False Positive",
-        "Malevolent"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Sensory Deprivation",
-      "slug": "sensory-deprivation",
-      "definition": "A technique that limits sensory input, commonly sight and/or hearing, in an attempt to reduce outside awareness and increase focus on selected sensations, impressions, or perceptions.",
-      "tags": [
-        "Technique",
-        "Investigation Technique",
-        "Methodology"
-      ],
-      "aliases": [
-        "Sensory isolation",
-        "Audio deprivation",
-        "Visual deprivation"
-      ],
-      "related": [
-        "Estes Method",
-        "Spirit Box",
-        "Call and Response",
-        "Instrumental Trans-Communication"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
     },
     {
       "term": "Shadow People",
@@ -1420,36 +956,10 @@
       "related": [
         "Electronic Voice Phenomenon",
         "Audio Phenomena",
-        "Compromised Evidence",
-        "Estes Method"
+        "Compromised Evidence"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
-      "term": "Suggestibility",
-      "slug": "suggestibility",
-      "definition": "The tendency for expectations or context to influence perception or interpretation.",
-      "tags": [
-        "Evidence Review",
-        "Perceptual Factor",
-        "Reliability Factor"
-      ],
-      "aliases": [
-        "Suggestability",
-        "Influenceable",
-        "Affectability",
-        "Suggestion",
-        "Expectation effect"
-      ],
-      "related": [
-        "Apophenia",
-        "Pareidolia",
-        "Auditory Illusion",
-        "Personal Experience"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.3.0"
     },
     {
       "term": "Supernatural",

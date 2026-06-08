@@ -63,6 +63,10 @@ Optional fields:
 - `related` - exact term names that connect this term to nearby concepts.
 - `references` - source labels and optional URLs that support or contextualize the term.
 
+## Approval Workflow
+
+New terms must be proposed before editing release data. Each term should be reviewed and manually approved by the maintainer before it is added to `terms.json`, `terms.csv`, version archives, release metadata, or website terminology data. Do not treat a suggested draft, brainstormed list, or inferred expansion area as approval to add terms.
+
 ## Slug Guidance
 
 Use lowercase kebab-case slugs:

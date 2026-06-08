@@ -1,5 +1,29 @@
 # Version History
 
+## 0.6.0 - 2026-06-08
+
+Added terminology for personal-experience reporting, corroborating evidence, evidence handling, reported sensory and physical activity, perceived intent, perception factors, and physical marks.
+
+- Added personal experience as a term for firsthand accounts that lack corroborating evidence.
+- Added apport and asport as paired terms for reported object appearance and disappearance.
+- Added aura as a term for perceived fields of energy surrounding a person, place, or object.
+- Added bibliomancy as a term for interpreting randomly selected passages from written texts.
+- Added corroboration as a term for evidence that supports or aligns with a report or other evidence.
+- Added chain of custody as a term for documenting how evidence was collected, handled, stored, and reviewed.
+- Added demon, exorcism, and possession as related entity-focused terms.
+- Added dowsing rods as a term for rods believed to sometimes indicate paranormal activity by moving, crossing, or pointing.
+- Added Estes method and sensory deprivation as related technique terms.
+- Added footsteps and knocking as terms for reported sounds without an immediately identifiable source.
+- Added phantom smells as a term for odors perceived without an immediately identifiable source.
+- Added poltergeist as a term for reported anomalous activity characterized by physical disturbances.
+- Added benevolent as a term for reported activity or presence perceived as helpful, protective, harmless, or positive in intent.
+- Added malevolent as a term for reported activity or presence perceived as harmful, threatening, hostile, or negative in intent.
+- Added scratches as a term for marks on the skin interpreted as evidence of paranormal activity.
+- Added suggestibility as a term for expectations or context influencing perception or interpretation.
+- Archived the previous `0.5.1` release.
+- Updated the root metadata release to version 0.6.0.
+- Increased the public glossary to 71 terms.
+
 ## 0.5.1 - 2026-06-07
 
 Updated the terminology data format.
