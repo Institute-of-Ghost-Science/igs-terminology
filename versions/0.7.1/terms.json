@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "0.7.2",
+    "version": "0.7.1",
     "released": "2026-06-19",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
@@ -16,7 +16,8 @@
       "definition": "Detection of deviations from ambient temperature, usually using a device that measures or records temperature changes.",
       "tags": [
         "Environmental Factor",
-        "Equipment"
+        "Equipment",
+        "Measurement"
       ],
       "aliases": [
         "Ambient temperature deviation",
@@ -36,6 +37,7 @@
       "slug": "anomalous-activity",
       "definition": "Activity, evidence, or conditions that differ from what is expected and have not yet been explained.",
       "tags": [
+        "Common Term",
         "Evidence",
         "Foundational Concept"
       ],
@@ -56,6 +58,7 @@
       "slug": "apophenia",
       "definition": "The perception of meaningful patterns, connections, or significance in unrelated or random information.",
       "tags": [
+        "Evidence Review",
         "Natural Explanation",
         "Perceptual Factor"
       ],
@@ -77,6 +80,7 @@
       "slug": "apparition",
       "definition": "A visual phenomenon interpreted as a person, figure, animal, object, or presence that is not ordinarily visible or physically accounted for at the time of observation.",
       "tags": [
+        "Common Term",
         "Entity Term",
         "Visual Phenomenon"
       ],
@@ -102,6 +106,7 @@
       "slug": "apport",
       "definition": "The reported appearance of an object without an immediately identified physical source.",
       "tags": [
+        "Object Phenomenon",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -123,6 +128,7 @@
       "slug": "asport",
       "definition": "The reported disappearance of an object without an immediately identified physical cause.",
       "tags": [
+        "Object Phenomenon",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -144,8 +150,9 @@
       "slug": "attachment",
       "definition": "The idea that paranormal activity can be connected or attached to a person, place, object, or presence.",
       "tags": [
-        "Entity-Related",
-        "Interpretation"
+        "Common Term",
+        "Entity Term",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Attached spirit",
@@ -171,7 +178,8 @@
       "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
       "tags": [
         "Audio Phenomenon",
-        "Category"
+        "Category",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Auditory phenomena",
@@ -194,6 +202,7 @@
       "definition": "The perception or interpretation of unclear or ambiguous audio as meaningful sound or language.",
       "tags": [
         "Audio Phenomenon",
+        "Evidence Review",
         "Natural Explanation",
         "Perceptual Factor"
       ],
@@ -217,6 +226,7 @@
       "slug": "aura",
       "definition": "A perceived field of energy surrounding a person, place, or object, sometimes represented as a glow.",
       "tags": [
+        "Common Term",
         "Interpretation",
         "Visual Phenomenon"
       ],
@@ -237,7 +247,8 @@
       "slug": "baseline-reading",
       "definition": "An initial measurement or observation recorded before an investigation or controlled test, used as a comparison point to help identify anomalies or changes in conditions.",
       "tags": [
-        "Evidence",
+        "Evidence Review",
+        "Measurement",
         "Research"
       ],
       "aliases": [
@@ -257,8 +268,9 @@
       "slug": "battery-drain",
       "definition": "An unexpected loss of battery charge treated as anomalous activity or as evidence of it.",
       "tags": [
-        "Evidence",
-        "Physical Phenomenon"
+        "Common Term",
+        "Equipment",
+        "Instrument Reading"
       ],
       "aliases": [
         "Battery loss",
@@ -278,6 +290,7 @@
       "slug": "benevolent",
       "definition": "Describes reported activity or presence perceived as helpful, protective, harmless, or positive in intent.",
       "tags": [
+        "Common Term",
         "Entity-Related",
         "Interpretation"
       ],
@@ -302,6 +315,7 @@
       "slug": "bibliomancy",
       "definition": "A practice in which a book or written text is opened and a page, word, or passage is selected at random and interpreted for significance.",
       "tags": [
+        "Common Term",
         "Practice"
       ],
       "aliases": [
@@ -322,7 +336,8 @@
       "slug": "call-and-response",
       "definition": "A technique that prompts for a response, frequently by asking a question or making a noise, then monitors for a response.",
       "tags": [
-        "Audio Phenomenon",
+        "Common Term",
+        "Research",
         "Technique"
       ],
       "aliases": [
@@ -346,7 +361,9 @@
       "slug": "cat-balls",
       "definition": "Motion-activated light-up balls, often sold as pet toys, used during investigations as visible indicators of movement or vibration.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Instrument Reading"
       ],
       "aliases": [
         "Cat ball",
@@ -366,7 +383,9 @@
       "slug": "chain-of-custody",
       "definition": "Documentation of how evidence was collected, handled, stored, and reviewed.",
       "tags": [
-        "Evidence"
+        "Documentation",
+        "Evidence",
+        "Quality Control"
       ],
       "aliases": [
         "Custody record",
@@ -384,8 +403,9 @@
       "slug": "collective-experience",
       "definition": "An event or perception reported by more than one person, either at the same time or in close sequence, and interpreted as involving the same anomalous activity, presence, or phenomenon.",
       "tags": [
-        "Perceptual Factor",
+        "Evidence Review",
         "Personal Experience",
+        "Reporting",
         "Witness Account"
       ],
       "aliases": [
@@ -415,7 +435,9 @@
       "slug": "compromised-evidence",
       "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
       "tags": [
-        "Evidence"
+        "Evidence",
+        "Evidence Review",
+        "Instrumentation"
       ],
       "aliases": [
         "Contaminated evidence",
@@ -433,6 +455,9 @@
       "slug": "control",
       "definition": "A known or intentionally arranged condition used to help distinguish reported anomalous activity from ordinary environmental, technical, psychological, or procedural explanations.",
       "tags": [
+        "Evidence Review",
+        "Methodology",
+        "Quality Control",
         "Research"
       ],
       "aliases": [
@@ -455,7 +480,9 @@
       "slug": "corroboration",
       "definition": "Evidence from another witness or source that supports or aligns with a report or other evidence.",
       "tags": [
-        "Evidence"
+        "Evidence",
+        "Evidence Review",
+        "Reporting"
       ],
       "aliases": [
         "Independent support",
@@ -474,7 +501,10 @@
       "slug": "data-logger",
       "definition": "A device used to record multiple measurements or environmental conditions over time for later review.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Environmental logger",
@@ -494,6 +524,7 @@
       "slug": "debunking",
       "definition": "The process of disproving a claim that specific activity, evidence, or an experience is or was paranormal in origin.",
       "tags": [
+        "Evidence Review",
         "Natural Explanation",
         "Research"
       ],
@@ -516,6 +547,7 @@
       "slug": "demon",
       "definition": "A nonhuman spiritual or supernatural entity commonly interpreted as harmful, hostile, deceptive, or malevolent.",
       "tags": [
+        "Common Term",
         "Entity Term",
         "Interpretation"
       ],
@@ -539,7 +571,9 @@
       "slug": "disembodied-voice",
       "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
       "tags": [
-        "Audio Phenomenon"
+        "Audio Phenomenon",
+        "Common Term",
+        "Witnessed"
       ],
       "aliases": [
         "Audible voice phenomena",
@@ -560,9 +594,9 @@
       "slug": "dowsing-rods",
       "definition": "Handheld rods believed to sometimes indicate paranormal activity by moving, crossing, or pointing.",
       "tags": [
+        "Common Term",
         "Equipment",
-        "Practice",
-        "Technique"
+        "Investigation Technique"
       ],
       "aliases": [
         "Divining rods",
@@ -583,7 +617,9 @@
       "slug": "electromagnetic-field",
       "definition": "In supernatural investigation, a measurement used to document variances in electromagnetic radiation. These variances can be interpreted as possible evidence of paranormal activity when considered alongside the full investigation context.",
       "tags": [
-        "Environmental Factor"
+        "Environmental Factor",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Electromagnetic field measurement",
@@ -604,7 +640,9 @@
       "definition": "Recorded audio interpreted as an anomalous sound, signal, voice, or noise that was not observed at the time of recording.",
       "tags": [
         "Audio Phenomenon",
-        "Evidence"
+        "Common Term",
+        "Evidence Review",
+        "Recorded"
       ],
       "aliases": [
         "EAP",
@@ -630,7 +668,8 @@
       "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
       "tags": [
         "Audio Phenomenon",
-        "Evidence"
+        "Common Term",
+        "Recorded"
       ],
       "aliases": [
         "Electronic voice phenomena",
@@ -648,7 +687,9 @@
       "slug": "emf-meter",
       "definition": "A device used to measure electromagnetic fields or changes in electromagnetic field strength.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Measurement"
       ],
       "aliases": [
         "Electromagnetic field meter",
@@ -669,7 +710,9 @@
       "slug": "emf-spike",
       "definition": "A sudden or notable increase in an EMF reading during an investigation that may be interpreted as possible evidence of paranormal activity.",
       "tags": [
-        "Environmental Factor"
+        "Environmental Factor",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Electromagnetic field spike",
@@ -688,8 +731,7 @@
       "slug": "energy",
       "definition": "A commonly used term for describing or explaining a wide variety of anomalous activity.",
       "tags": [
-        "Foundational Concept",
-        "Interpretation"
+        "Common Term"
       ],
       "aliases": [
         "Demonic energy",
@@ -717,8 +759,7 @@
       "tags": [
         "Environmental Factor",
         "Evidence",
-        "Natural Explanation",
-        "Research"
+        "Natural Explanation"
       ],
       "aliases": [
         "Environmental interference",
@@ -736,6 +777,7 @@
       "definition": "A technique in which a listener wearing headphones is isolated from outside visual and auditory cues and speaks words or sounds they hear from an audio-generating device such as a spirit box.",
       "tags": [
         "Audio Phenomenon",
+        "Investigation Technique",
         "Technique"
       ],
       "aliases": [
@@ -756,6 +798,7 @@
       "slug": "exorcism",
       "definition": "A ritual or practice intended to remove, expel, or separate a spirit, entity, or other nonphysical presence from a person, place, or object.",
       "tags": [
+        "Common Term",
         "Entity-Related",
         "Practice"
       ],
@@ -798,6 +841,7 @@
       "slug": "false-positive",
       "definition": "Evidence that appears to indicate anomalous activity but is later explained by ordinary causes.",
       "tags": [
+        "Evidence Review",
         "Natural Explanation",
         "Research"
       ],
@@ -822,6 +866,7 @@
       "definition": "Sounds believed to be footsteps that are heard or recorded without an immediately identifiable source.",
       "tags": [
         "Audio Phenomenon",
+        "Common Term",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -843,8 +888,8 @@
       "slug": "ghost",
       "definition": "A common term for unexplained activity interpreted as involving a person, animal, object, place, or presence that is not ordinarily observable.",
       "tags": [
-        "Entity Term",
-        "Foundational Concept"
+        "Common Term",
+        "Entity Term"
       ],
       "aliases": [
         "Apparition",
@@ -868,9 +913,9 @@
       "slug": "gravity-hill",
       "definition": "A location where the surrounding landscape creates the visual impression that a slight downhill slope is uphill, making vehicles or objects appear to roll against gravity; these sites are sometimes associated with ghost stories or mistaken for paranormal activity.",
       "tags": [
+        "Common Term",
         "Environmental Factor",
-        "Natural Explanation",
-        "Perceptual Factor"
+        "Natural Explanation"
       ],
       "aliases": [
         "Ghost hill",
@@ -892,8 +937,8 @@
       "slug": "haunting",
       "definition": "A case of unexplained activity associated with a person, place, or object.",
       "tags": [
-        "Category",
-        "Foundational Concept"
+        "Common Term",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Haunt",
@@ -936,7 +981,9 @@
       "slug": "infrared-camera",
       "definition": "A camera that records infrared light, used to document visual information outside normal visible-light conditions.",
       "tags": [
+        "Common Term",
         "Equipment",
+        "Measurement",
         "Visual Phenomenon"
       ],
       "aliases": [
@@ -958,7 +1005,7 @@
       "tags": [
         "Audio Phenomenon",
         "Environmental Factor",
-        "Natural Explanation"
+        "Measurement"
       ],
       "aliases": [
         "Low-frequency sound",
@@ -976,8 +1023,7 @@
       "slug": "instrumental-trans-communication",
       "definition": "The use of devices, usually electronic, to attempt communication in the context of paranormal activity.",
       "tags": [
-        "Entity-Related",
-        "Technique"
+        "Research"
       ],
       "aliases": [
         "Instrumental transcommunication",
@@ -995,10 +1041,8 @@
       "slug": "intelligent-activity",
       "definition": "Unexplained activity that appears to show awareness, intention, or purposeful behavior.",
       "tags": [
-        "Category",
-        "Entity-Related",
-        "Foundational Concept",
-        "Interpretation"
+        "Common Term",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Intelligent haunting",
@@ -1019,6 +1063,7 @@
       "definition": "Knocks, taps, bangs, or similar impact sounds that are heard or recorded without an immediately identifiable source.",
       "tags": [
         "Audio Phenomenon",
+        "Common Term",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -1042,6 +1087,7 @@
       "slug": "laser-grid",
       "definition": "A projected pattern of laser points or lines, or the device that produces it, used as a visible reference for detecting movement or visual disturbances.",
       "tags": [
+        "Common Term",
         "Equipment",
         "Visual Phenomenon"
       ],
@@ -1066,6 +1112,7 @@
       "slug": "malevolent",
       "definition": "Describes reported activity or presence perceived as harmful, threatening, hostile, or negative in intent.",
       "tags": [
+        "Common Term",
         "Entity-Related",
         "Interpretation"
       ],
@@ -1094,6 +1141,7 @@
       "slug": "mists",
       "definition": "Visible haze, vapor, smoke, fog-like forms, or clouded areas witnessed in person or seen in images.",
       "tags": [
+        "Common Term",
         "Environmental Factor",
         "Visual Phenomenon"
       ],
@@ -1117,7 +1165,8 @@
       "slug": "orbs",
       "definition": "Circular or spherical forms, usually light-emitting and sometimes dark, seen in photographs, video, or direct observation.",
       "tags": [
-        "Environmental Factor",
+        "Common Term",
+        "Recorded",
         "Visual Phenomenon"
       ],
       "aliases": [
@@ -1139,9 +1188,8 @@
       "slug": "ouija",
       "definition": "A board or similar surface marked with letters, numbers, and other indicators, used with a planchette or pointer in attempts to receive messages or responses.",
       "tags": [
-        "Entity-Related",
-        "Equipment",
-        "Practice"
+        "Common Term",
+        "Equipment"
       ],
       "aliases": [
         "Message board",
@@ -1162,6 +1210,7 @@
       "slug": "paranormal",
       "definition": "A broad term for something that appears to fall outside ordinary explanation based on the information currently available.",
       "tags": [
+        "Common Term",
         "Foundational Concept"
       ],
       "aliases": [
@@ -1182,6 +1231,8 @@
       "slug": "parapsychology",
       "definition": "The study of claimed psi-related experiences and abilities, such as telepathy, clairvoyance, precognition, psychokinesis, and survival-related claims.",
       "tags": [
+        "Field of Study",
+        "Foundational Concept",
         "Research"
       ],
       "aliases": [
@@ -1200,7 +1251,7 @@
       "slug": "pareidolia",
       "definition": "The perception of meaningful patterns, faces, figures, words, or voices in ambiguous or random sensory information.",
       "tags": [
-        "Audio Phenomenon",
+        "Evidence Review",
         "Natural Explanation",
         "Perceptual Factor"
       ],
@@ -1224,6 +1275,7 @@
       "definition": "A firsthand account of an event directly experienced by an individual that lacks corroborating evidence.",
       "tags": [
         "Evidence",
+        "Reporting",
         "Witness Account"
       ],
       "aliases": [
@@ -1243,8 +1295,7 @@
       "slug": "phantom-smells",
       "definition": "Odors perceived without an immediately identifiable source, commonly including smoke, perfume, or other distinctive smells.",
       "tags": [
-        "Environmental Factor",
-        "Perceptual Factor",
+        "Common Term",
         "Personal Experience"
       ],
       "aliases": [
@@ -1266,9 +1317,9 @@
       "slug": "poltergeist",
       "definition": "A type of reported anomalous activity characterized by physical disturbances such as object movement, knocking or banging sounds, or other physical events.",
       "tags": [
-        "Audio Phenomenon",
-        "Category",
-        "Physical Phenomenon"
+        "Anomalous Activity",
+        "Common Term",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Noisy spirit",
@@ -1287,6 +1338,7 @@
       "slug": "possession",
       "definition": "A state in which a person is believed or interpreted to be influenced, controlled, or inhabited by a spirit, entity, or other nonphysical presence.",
       "tags": [
+        "Common Term",
         "Entity-Related",
         "Interpretation"
       ],
@@ -1311,6 +1363,8 @@
       "slug": "provoking",
       "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response from reported activity.",
       "tags": [
+        "Common Term",
+        "Research",
         "Technique"
       ],
       "aliases": [
@@ -1332,9 +1386,9 @@
       "slug": "psychography",
       "definition": "Writing or written marks produced while a person holds a pen, pencil, marker, or other writing instrument and reports that they are not consciously moving it.",
       "tags": [
-        "Entity-Related",
-        "Physical Phenomenon",
-        "Practice"
+        "Common Term",
+        "Phenomenon Type",
+        "Research"
       ],
       "aliases": [
         "Automatic writing",
@@ -1353,9 +1407,8 @@
       "slug": "recurrent-activity",
       "definition": "Unexplained activity that appears to repeat in a similar way over time without showing awareness, intention, or purposeful behavior.",
       "tags": [
-        "Category",
-        "Foundational Concept",
-        "Interpretation"
+        "Common Term",
+        "Phenomenon Type"
       ],
       "aliases": [
         "Residual activity",
@@ -1374,7 +1427,10 @@
       "slug": "rem-pod",
       "definition": "A device that emits an electromagnetic field from its antenna and detects changes to that field, often producing lights or sounds when changes are detected.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Radiating electromagneticity pod",
@@ -1395,7 +1451,9 @@
       "slug": "scratches",
       "definition": "Scratches or marks on the skin that cannot immediately be explained and are interpreted as evidence of paranormal activity.",
       "tags": [
+        "Common Report",
         "Evidence",
+        "Personal Experience",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -1417,7 +1475,8 @@
       "slug": "sensory-deprivation",
       "definition": "A technique that limits sensory input, commonly sight and/or hearing, in an attempt to reduce outside awareness and increase focus on selected sensations, impressions, or perceptions.",
       "tags": [
-        "Perceptual Factor",
+        "Investigation Technique",
+        "Methodology",
         "Technique"
       ],
       "aliases": [
@@ -1439,6 +1498,7 @@
       "slug": "shadow-people",
       "definition": "A common term for dark, shadow-like figures reported as human-shaped or presence-like, commonly lacking clear features or seen briefly, peripherally, or under low-light conditions.",
       "tags": [
+        "Common Term",
         "Entity Term",
         "Visual Phenomenon"
       ],
@@ -1462,6 +1522,7 @@
       "slug": "sleep-paralysis",
       "definition": "A temporary state near sleep or waking in which a person is aware but unable to move, sometimes accompanied by vivid dreamlike perceptions that may be interpreted as paranormal activity.",
       "tags": [
+        "Evidence Review",
         "Natural Explanation",
         "Perceptual Factor",
         "Personal Experience"
@@ -1484,7 +1545,9 @@
       "slug": "sls-camera",
       "definition": "A camera system that uses projected infrared light points and software to interpret human-shaped forms, often displaying them as stick figures.",
       "tags": [
+        "Common Term",
         "Equipment",
+        "Instrument Reading",
         "Visual Phenomenon"
       ],
       "aliases": [
@@ -1507,8 +1570,8 @@
       "slug": "spirit",
       "definition": "A term for a nonphysical presence or consciousness interpreted as continuing apart from a living being.",
       "tags": [
-        "Entity Term",
-        "Foundational Concept"
+        "Common Term",
+        "Entity Term"
       ],
       "aliases": [
         "Entity",
@@ -1529,7 +1592,7 @@
       "definition": "A device or application used to generate audio or words that may be reviewed for possible responses or anomalous content.",
       "tags": [
         "Audio Phenomenon",
-        "Entity-Related",
+        "Common Term",
         "Equipment"
       ],
       "aliases": [
@@ -1556,8 +1619,9 @@
       "slug": "suggestibility",
       "definition": "The tendency for expectations or context to influence perception or interpretation.",
       "tags": [
-        "Natural Explanation",
-        "Perceptual Factor"
+        "Evidence Review",
+        "Perceptual Factor",
+        "Reliability Factor"
       ],
       "aliases": [
         "Affectability",
@@ -1580,6 +1644,7 @@
       "slug": "supernatural",
       "definition": "A broad term for phenomena interpreted as existing beyond the known laws of nature or not fully explained by them.",
       "tags": [
+        "Common Term",
         "Foundational Concept"
       ],
       "aliases": [
@@ -1598,7 +1663,9 @@
       "slug": "temperature-changes",
       "definition": "Reported or measured shifts in ambient temperature, surface temperature, or perceived heat or cold, commonly referred to as cold spots or hot spots.",
       "tags": [
-        "Environmental Factor"
+        "Environmental Factor",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Cold spots",
@@ -1618,7 +1685,10 @@
       "slug": "thermal-camera",
       "definition": "A camera that detects infrared radiation and displays or records temperature differences as an image.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "FLIR camera",
@@ -1639,7 +1709,8 @@
       "slug": "trifield-meter",
       "definition": "A meter commonly used to detect or measure AC magnetic fields, AC electric fields, and RF or microwave signals.",
       "tags": [
-        "Equipment"
+        "Equipment",
+        "Measurement"
       ],
       "aliases": [
         "TF2",
@@ -1660,7 +1731,9 @@
       "slug": "trigger-object",
       "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
       "tags": [
-        "Equipment"
+        "Common Term",
+        "Equipment",
+        "Research"
       ],
       "aliases": [
         "Target object",
@@ -1680,6 +1753,7 @@
       "definition": "A category of phenomena involving any visual event that is witnessed in person or documented in images or video.",
       "tags": [
         "Category",
+        "Phenomenon Type",
         "Visual Phenomenon"
       ],
       "aliases": [
@@ -1700,7 +1774,9 @@
       "slug": "whispers",
       "definition": "Low-volume voice or speech-like sounds heard or recorded without an apparent source.",
       "tags": [
-        "Audio Phenomenon"
+        "Audio Phenomenon",
+        "Common Term",
+        "Witnessed"
       ],
       "aliases": [
         "Low voice",

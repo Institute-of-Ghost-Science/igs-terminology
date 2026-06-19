@@ -1,5 +1,14 @@
 # Version History
 
+## 0.7.2 - 2026-06-19
+
+Cleaned up terminology tags for the current public glossary.
+
+- Removed broad or redundant tags from current terminology entries.
+- Refined tag assignments for categories, evidence, entity-related terms, physical phenomena, practices, research terms, and techniques.
+- Archived the previous `0.7.1` release.
+- Updated the root metadata release to version 0.7.2.
+
 ## 0.7.1 - 2026-06-19
 
 Updated alias ordering for the current terminology release.
