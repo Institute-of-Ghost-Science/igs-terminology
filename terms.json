@@ -76,28 +76,6 @@
       "versionUpdated": "0.4.0"
     },
     {
-      "term": "Apport",
-      "slug": "apport",
-      "definition": "The reported appearance of an object without an immediately identified physical source.",
-      "tags": [
-        "Physical Phenomenon",
-        "Object Phenomenon"
-      ],
-      "aliases": [
-        "Apportation",
-        "Materialization",
-        "Object appearance"
-      ],
-      "related": [
-        "Asport",
-        "Poltergeist",
-        "Anomalous Activity",
-        "Trigger Object"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Apparition",
       "slug": "apparition",
       "definition": "A visual phenomenon interpreted as a person, figure, animal, object, or presence that is not ordinarily visible or physically accounted for at the time of observation.",
@@ -122,6 +100,28 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.7.0"
+    },
+    {
+      "term": "Apport",
+      "slug": "apport",
+      "definition": "The reported appearance of an object without an immediately identified physical source.",
+      "tags": [
+        "Physical Phenomenon",
+        "Object Phenomenon"
+      ],
+      "aliases": [
+        "Apportation",
+        "Materialization",
+        "Object appearance"
+      ],
+      "related": [
+        "Asport",
+        "Poltergeist",
+        "Anomalous Activity",
+        "Trigger Object"
+      ],
+      "versionAdded": "0.6.0",
+      "versionUpdated": "0.6.0"
     },
     {
       "term": "Asport",
@@ -173,27 +173,6 @@
       "versionUpdated": "0.6.0"
     },
     {
-      "term": "Aura",
-      "slug": "aura",
-      "definition": "A perceived field of energy surrounding a person, place, or object, sometimes represented as a glow.",
-      "tags": [
-        "Common Term",
-        "Visual Phenomenon",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Energy field",
-        "Personal energy",
-        "Spiritual field"
-      ],
-      "related": [
-        "Energy",
-        "Spirit"
-      ],
-      "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
-    },
-    {
       "term": "Audio Phenomena",
       "slug": "audio-phenomena",
       "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
@@ -241,6 +220,27 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
+    },
+    {
+      "term": "Aura",
+      "slug": "aura",
+      "definition": "A perceived field of energy surrounding a person, place, or object, sometimes represented as a glow.",
+      "tags": [
+        "Common Term",
+        "Visual Phenomenon",
+        "Interpretation"
+      ],
+      "aliases": [
+        "Energy field",
+        "Personal energy",
+        "Spiritual field"
+      ],
+      "related": [
+        "Energy",
+        "Spirit"
+      ],
+      "versionAdded": "0.6.0",
+      "versionUpdated": "0.6.0"
     },
     {
       "term": "Baseline Reading",
@@ -332,28 +332,6 @@
       "versionUpdated": "0.6.0"
     },
     {
-      "term": "Cat Balls",
-      "slug": "cat-balls",
-      "definition": "Motion-activated light-up balls, often sold as pet toys, used during investigations as visible indicators of movement or vibration.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Instrument Reading"
-      ],
-      "aliases": [
-        "Cat ball",
-        "Cat toy",
-        "Motion ball",
-        "Light-up ball",
-        "Devil's Marble"
-      ],
-      "related": [
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
       "term": "Call and Response",
       "slug": "call-and-response",
       "definition": "A technique that prompts for a response, frequently by asking a question or making a noise, then monitors for a response.",
@@ -377,6 +355,28 @@
       ],
       "versionAdded": "0.5.0",
       "versionUpdated": "0.5.0"
+    },
+    {
+      "term": "Cat Balls",
+      "slug": "cat-balls",
+      "definition": "Motion-activated light-up balls, often sold as pet toys, used during investigations as visible indicators of movement or vibration.",
+      "tags": [
+        "Common Term",
+        "Equipment",
+        "Instrument Reading"
+      ],
+      "aliases": [
+        "Cat ball",
+        "Cat toy",
+        "Motion ball",
+        "Light-up ball",
+        "Devil's Marble"
+      ],
+      "related": [
+        "Baseline Reading"
+      ],
+      "versionAdded": "0.4.0",
+      "versionUpdated": "0.4.0"
     },
     {
       "term": "Chain of Custody",
@@ -1359,27 +1359,6 @@
       "versionUpdated": "0.6.0"
     },
     {
-      "term": "Psychography",
-      "slug": "psychography",
-      "definition": "Writing or written marks produced while a person holds a pen, pencil, marker, or other writing instrument and reports that they are not consciously moving it.",
-      "tags": [
-        "Common Term",
-        "Phenomenon Type",
-        "Research"
-      ],
-      "aliases": [
-        "Automatic writing",
-        "Spirit writing"
-      ],
-      "related": [
-        "Ouija",
-        "Instrumental Trans-Communication",
-        "Spirit"
-      ],
-      "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
-    },
-    {
       "term": "Provoking",
       "slug": "provoking",
       "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response from reported activity.",
@@ -1401,6 +1380,27 @@
       ],
       "versionAdded": "0.5.0",
       "versionUpdated": "0.5.0"
+    },
+    {
+      "term": "Psychography",
+      "slug": "psychography",
+      "definition": "Writing or written marks produced while a person holds a pen, pencil, marker, or other writing instrument and reports that they are not consciously moving it.",
+      "tags": [
+        "Common Term",
+        "Phenomenon Type",
+        "Research"
+      ],
+      "aliases": [
+        "Automatic writing",
+        "Spirit writing"
+      ],
+      "related": [
+        "Ouija",
+        "Instrumental Trans-Communication",
+        "Spirit"
+      ],
+      "versionAdded": "0.4.0",
+      "versionUpdated": "0.4.0"
     },
     {
       "term": "Recurrent Activity",
@@ -1518,6 +1518,29 @@
       "versionUpdated": "0.2.0"
     },
     {
+      "term": "Sleep Paralysis",
+      "slug": "sleep-paralysis",
+      "definition": "A temporary state near sleep or waking in which a person is aware but unable to move, sometimes accompanied by vivid dreamlike perceptions that may be interpreted as paranormal activity.",
+      "tags": [
+        "Personal Experience",
+        "Perceptual Factor",
+        "Natural Explanation",
+        "Evidence Review"
+      ],
+      "aliases": [
+        "Waking dream",
+        "Dreaming while awake"
+      ],
+      "related": [
+        "Personal Experience",
+        "Apparition",
+        "Auditory Illusion",
+        "Suggestibility"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
+    },
+    {
       "term": "SLS Camera",
       "slug": "sls-camera",
       "definition": "A camera system that uses projected infrared light points and software to interpret human-shaped forms, often displaying them as stick figures.",
@@ -1541,29 +1564,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
-    },
-    {
-      "term": "Sleep Paralysis",
-      "slug": "sleep-paralysis",
-      "definition": "A temporary state near sleep or waking in which a person is aware but unable to move, sometimes accompanied by vivid dreamlike perceptions that may be interpreted as paranormal activity.",
-      "tags": [
-        "Personal Experience",
-        "Perceptual Factor",
-        "Natural Explanation",
-        "Evidence Review"
-      ],
-      "aliases": [
-        "Waking dream",
-        "Dreaming while awake"
-      ],
-      "related": [
-        "Personal Experience",
-        "Apparition",
-        "Auditory Illusion",
-        "Suggestibility"
-      ],
-      "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
     },
     {
       "term": "Spirit",
@@ -1705,27 +1705,6 @@
       "versionUpdated": "0.4.0"
     },
     {
-      "term": "Trigger Object",
-      "slug": "trigger-object",
-      "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
-      "tags": [
-        "Common Term",
-        "Equipment",
-        "Research"
-      ],
-      "aliases": [
-        "Trigger item",
-        "Target object"
-      ],
-      "related": [
-        "Intelligent Activity",
-        "Anomalous Activity",
-        "Baseline Reading"
-      ],
-      "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
-    },
-    {
       "term": "TriField Meter",
       "slug": "trifield-meter",
       "definition": "A meter commonly used to detect or measure AC magnetic fields, AC electric fields, and RF or microwave signals.",
@@ -1746,6 +1725,27 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
+    },
+    {
+      "term": "Trigger Object",
+      "slug": "trigger-object",
+      "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
+      "tags": [
+        "Common Term",
+        "Equipment",
+        "Research"
+      ],
+      "aliases": [
+        "Trigger item",
+        "Target object"
+      ],
+      "related": [
+        "Intelligent Activity",
+        "Anomalous Activity",
+        "Baseline Reading"
+      ],
+      "versionAdded": "0.5.0",
+      "versionUpdated": "0.5.0"
     },
     {
       "term": "Visual Phenomena",
