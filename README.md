@@ -33,14 +33,14 @@ The canonical `terms.json` file contains both release metadata and the term list
 ```json
 {
   "metadata": {
-    "version": "0.6.0",
-    "released": "2026-06-08",
+    "version": "0.7.0",
+    "released": "2026-06-18",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 71
+    "termCount": 78
   },
   "terms": []
 }

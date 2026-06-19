@@ -1,5 +1,27 @@
 # Version History
 
+## 0.7.0 - 2026-06-18
+
+Added terminology for research controls, shared experiences, sleep-related perceptual experiences, electronic audio, and natural environmental effects associated with ghost stories.
+
+- Added collective experience as a term for events or perceptions reported by more than one person.
+- Added control as a term for known or intentionally arranged conditions used to help distinguish reported anomalous activity from ordinary explanations.
+- Added electronic audio phenomenon as a broader audio term for recorded anomalous sounds, signals, voices, or noises not observed at the time of recording.
+- Added false awakening and hypnagogia as terms for sleep-related experiences that may be interpreted as paranormal activity.
+- Added gravity hill as a term for locations where landscape cues can make vehicles or objects appear to roll against gravity and become associated with ghost stories.
+- Added sleep paralysis as a term for a temporary state near sleep or waking that may include dreamlike perceptions interpreted as paranormal activity.
+- Added discarnate and ghost as aliases for apparition.
+- Added direct voice phenomena and audible voice phenomena as aliases for disembodied voice.
+- Added ecto-mist as an alias for mists.
+- Added evil spirit as an alias for malevolent.
+- Added Frank's Box as an alias for spirit box.
+- Added haunt and haunted house as aliases for haunting.
+- Updated ghost aliases to include spirit, haint, phantom, wraith, apparition, and specter.
+- Updated scratches to include personal-experience tagging.
+- Archived the previous `0.6.0` release.
+- Updated the root metadata release to version 0.7.0.
+- Increased the public glossary to 78 terms.
+
 ## 0.6.0 - 2026-06-08
 
 Added terminology for personal-experience reporting, corroborating evidence, evidence handling, reported sensory and physical activity, perceived intent, perception factors, and physical marks.
