@@ -55,7 +55,7 @@ Each item in `terms` requires:
 - `definition` - the Institute of Ghost Science meaning for the term.
 - `tags` - reusable labels that group the term by role, category, or usage.
 - `versionAdded` - the terminology version where the term first appeared.
-- `versionUpdated` - the terminology version where the term was last revised.
+- `versionUpdated` - the terminology version where the term was last revised, including changes to tags, aliases, related terms, references, or definition text.
 
 Optional fields:
 

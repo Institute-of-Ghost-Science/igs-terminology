@@ -29,7 +29,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Anomalous Activity",
@@ -49,7 +49,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Apophenia",
@@ -70,7 +70,7 @@
         "Pareidolia"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Apparition",
@@ -95,7 +95,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Apport",
@@ -116,7 +116,7 @@
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Asport",
@@ -137,7 +137,7 @@
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Attachment",
@@ -163,7 +163,7 @@
         "Spirit"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Audio Phenomena",
@@ -186,7 +186,7 @@
         "Whispers"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Auditory Illusion",
@@ -210,7 +210,7 @@
         "Whispers"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Aura",
@@ -230,7 +230,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Baseline Reading",
@@ -250,7 +250,7 @@
         "Environmental Contamination"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Battery Drain",
@@ -271,7 +271,7 @@
         "Energy"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Benevolent",
@@ -295,7 +295,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Bibliomancy",
@@ -315,7 +315,7 @@
         "Psychography"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Call and Response",
@@ -339,7 +339,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Cat Balls",
@@ -359,7 +359,7 @@
         "Baseline Reading"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Chain of Custody",
@@ -377,7 +377,7 @@
         "Corroboration"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Collective Experience",
@@ -408,7 +408,7 @@
         "Suggestibility"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Compromised Evidence",
@@ -426,7 +426,7 @@
         "Environmental Contamination"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Control",
@@ -448,7 +448,7 @@
         "False Positive"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Corroboration",
@@ -467,7 +467,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Data Logger",
@@ -487,7 +487,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Debunking",
@@ -509,7 +509,7 @@
         "Paranormal"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Demon",
@@ -532,7 +532,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Disembodied Voice",
@@ -553,7 +553,7 @@
         "Whispers"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Dowsing Rods",
@@ -576,7 +576,7 @@
         "Intelligent Activity"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Electromagnetic Field",
@@ -596,7 +596,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Electronic Audio Phenomenon",
@@ -622,7 +622,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Electronic Voice Phenomenon",
@@ -641,7 +641,7 @@
         "Disembodied Voice"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.1.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "EMF Meter",
@@ -662,7 +662,7 @@
         "TriField Meter"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "EMF Spike",
@@ -681,7 +681,7 @@
         "Paranormal"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Energy",
@@ -708,7 +708,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Environmental Contamination",
@@ -728,7 +728,7 @@
         "Compromised Evidence"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Estes Method",
@@ -749,7 +749,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Exorcism",
@@ -772,7 +772,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "False Awakening",
@@ -814,7 +814,7 @@
         "Pareidolia"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Footsteps",
@@ -836,7 +836,7 @@
         "Knocking"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Ghost",
@@ -861,7 +861,7 @@
         "Spirit"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Gravity Hill",
@@ -885,7 +885,7 @@
         "False Positive"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Haunting",
@@ -907,7 +907,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Hypnagogia",
@@ -949,7 +949,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Infrasound",
@@ -969,7 +969,7 @@
         "Paranormal"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Instrumental Trans-Communication",
@@ -988,7 +988,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Intelligent Activity",
@@ -1011,7 +1011,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Knocking",
@@ -1035,7 +1035,7 @@
         "Poltergeist"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Laser Grid",
@@ -1059,7 +1059,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Malevolent",
@@ -1087,7 +1087,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Mists",
@@ -1110,7 +1110,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Orbs",
@@ -1132,7 +1132,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Ouija",
@@ -1155,7 +1155,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Paranormal",
@@ -1175,7 +1175,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Parapsychology",
@@ -1193,7 +1193,7 @@
         "Spirit"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Pareidolia",
@@ -1216,7 +1216,7 @@
         "Shadow People"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Personal Experience",
@@ -1236,7 +1236,7 @@
         "Corroboration"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Phantom Smells",
@@ -1259,7 +1259,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Poltergeist",
@@ -1280,7 +1280,7 @@
         "Knocking"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Possession",
@@ -1304,7 +1304,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Provoking",
@@ -1325,7 +1325,7 @@
         "Intelligent Activity"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Psychography",
@@ -1346,7 +1346,7 @@
         "Spirit"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Recurrent Activity",
@@ -1367,7 +1367,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "REM Pod",
@@ -1388,7 +1388,7 @@
         "EMF Spike"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Scratches",
@@ -1410,7 +1410,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Sensory Deprivation",
@@ -1432,7 +1432,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Shadow People",
@@ -1455,7 +1455,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Sleep Paralysis",
@@ -1477,7 +1477,7 @@
         "Suggestibility"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "SLS Camera",
@@ -1500,7 +1500,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Spirit",
@@ -1521,7 +1521,7 @@
         "Shadow People"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Spirit Box",
@@ -1549,7 +1549,7 @@
         "Estes Method"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.7.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Suggestibility",
@@ -1573,7 +1573,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Supernatural",
@@ -1591,7 +1591,7 @@
         "Spirit"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Temperature Changes",
@@ -1611,7 +1611,7 @@
         "Paranormal"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Thermal Camera",
@@ -1632,7 +1632,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.4.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "TriField Meter",
@@ -1653,7 +1653,7 @@
         "EMF Spike"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Trigger Object",
@@ -1672,7 +1672,7 @@
         "Intelligent Activity"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.5.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Visual Phenomena",
@@ -1693,7 +1693,7 @@
         "Shadow People"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Whispers",
@@ -1712,7 +1712,7 @@
         "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.1.0"
+      "versionUpdated": "0.7.2"
     }
   ]
 }
