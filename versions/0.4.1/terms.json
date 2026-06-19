@@ -15,16 +15,16 @@
       "slug": "ambient-temperature-deviation-detection",
       "definition": "Detection of deviations from ambient temperature, usually using a device that measures or records temperature changes.",
       "tags": [
+        "Environmental Factor",
         "Equipment",
-        "Measurement",
-        "Environmental Factor"
+        "Measurement"
       ],
       "aliases": [
-        "ATDD",
-        "Temperature deviation detection",
         "Ambient temperature deviation",
+        "ATDD",
         "Cold spots",
-        "Hot spots"
+        "Hot spots",
+        "Temperature deviation detection"
       ],
       "related": [
         "Temperature Changes"
@@ -42,8 +42,8 @@
         "Foundational Concept"
       ],
       "aliases": [
-        "Anomaly",
-        "Anomalous event"
+        "Anomalous event",
+        "Anomaly"
       ],
       "related": [
         "Paranormal",
@@ -62,14 +62,14 @@
         "Perceptual Factor"
       ],
       "aliases": [
-        "Pattern perception",
         "False pattern recognition",
-        "Meaningful pattern perception"
+        "Meaningful pattern perception",
+        "Pattern perception"
       ],
       "related": [
-        "Pareidolia",
         "Auditory Illusion",
-        "Electronic Voice Phenomenon"
+        "Electronic Voice Phenomenon",
+        "Pareidolia"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -80,20 +80,20 @@
       "definition": "A visual phenomenon interpreted as a person, figure, animal, object, or presence that is not ordinarily visible or physically accounted for at the time of observation.",
       "tags": [
         "Common Term",
-        "Visual Phenomenon",
-        "Entity Term"
+        "Entity Term",
+        "Visual Phenomenon"
       ],
       "aliases": [
-        "Visual manifestation",
-        "Figure"
+        "Figure",
+        "Visual manifestation"
       ],
       "related": [
-        "Visual Phenomena",
         "Ghost",
-        "Spirit",
-        "Shadow People",
         "Mists",
-        "Pareidolia"
+        "Pareidolia",
+        "Shadow People",
+        "Spirit",
+        "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -103,19 +103,19 @@
       "slug": "audio-phenomena",
       "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
       "tags": [
+        "Audio Phenomenon",
         "Category",
-        "Phenomenon Type",
-        "Audio Phenomenon"
+        "Phenomenon Type"
       ],
       "aliases": [
         "Auditory phenomena",
         "Sound phenomena"
       ],
       "related": [
-        "Electronic Voice Phenomenon",
         "Disembodied Voice",
-        "Whispers",
-        "Infrasound"
+        "Electronic Voice Phenomenon",
+        "Infrasound",
+        "Whispers"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
@@ -132,14 +132,14 @@
       ],
       "aliases": [
         "Auditory pareidolia",
-        "Mondegreen",
+        "Misheard phrase",
         "Misheard words",
-        "Misheard phrase"
+        "Mondegreen"
       ],
       "related": [
-        "Pareidolia",
-        "Electronic Voice Phenomenon",
         "Disembodied Voice",
+        "Electronic Voice Phenomenon",
+        "Pareidolia",
         "Whispers"
       ],
       "versionAdded": "0.4.0",
@@ -150,18 +150,18 @@
       "slug": "baseline-reading",
       "definition": "An initial measurement or observation recorded before an investigation or controlled test, used as a comparison point to help identify anomalies or changes in conditions.",
       "tags": [
-        "Measurement",
         "Evidence Review",
+        "Measurement",
         "Research"
       ],
       "aliases": [
         "Baseline",
-        "Initial reading",
-        "Control"
+        "Control",
+        "Initial reading"
       ],
       "related": [
-        "Environmental Contamination",
-        "Compromised Evidence"
+        "Compromised Evidence",
+        "Environmental Contamination"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -177,13 +177,13 @@
       ],
       "aliases": [
         "Battery loss",
-        "Power drain",
+        "Drained battery",
         "Energy drain",
-        "Drained battery"
+        "Power drain"
       ],
       "related": [
-        "Energy",
-        "Anomalous Activity"
+        "Anomalous Activity",
+        "Energy"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -200,9 +200,9 @@
       "aliases": [
         "Cat ball",
         "Cat toy",
-        "Motion ball",
+        "Devil's Marble",
         "Light-up ball",
-        "Devil's Marble"
+        "Motion ball"
       ],
       "related": [
         "Baseline Reading"
@@ -220,8 +220,8 @@
         "Instrumentation"
       ],
       "aliases": [
-        "Unusable evidence",
-        "Contaminated evidence"
+        "Contaminated evidence",
+        "Unusable evidence"
       ],
       "related": [
         "Environmental Contamination"
@@ -236,18 +236,18 @@
       "tags": [
         "Common Term",
         "Equipment",
-        "Measurement",
-        "Instrument Reading"
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
-        "Logger",
-        "Environmental logger"
+        "Environmental logger",
+        "Logger"
       ],
       "related": [
         "Baseline Reading",
+        "Electromagnetic Field",
         "Environmental Contamination",
-        "Temperature Changes",
-        "Electromagnetic Field"
+        "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -257,8 +257,8 @@
       "slug": "disembodied-voice",
       "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Witnessed"
       ],
       "aliases": [
@@ -266,9 +266,9 @@
         "Voice anomaly"
       ],
       "related": [
+        "Audio Phenomena",
         "Electronic Voice Phenomenon",
-        "Whispers",
-        "Audio Phenomena"
+        "Whispers"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
@@ -278,19 +278,19 @@
       "slug": "electromagnetic-field",
       "definition": "In supernatural investigation, a measurement used to document variances in electromagnetic radiation. These variances can be interpreted as possible evidence of paranormal activity when considered alongside the full investigation context.",
       "tags": [
-        "Measurement",
         "Environmental Factor",
-        "Instrument Reading"
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
-        "EMF",
+        "Electromagnetic field measurement",
         "Electromagnetic field reading",
-        "Electromagnetic field measurement"
+        "EMF"
       ],
       "related": [
         "EMF Spike",
-        "Temperature Changes",
-        "Paranormal"
+        "Paranormal",
+        "Temperature Changes"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -300,17 +300,17 @@
       "slug": "electronic-voice-phenomenon",
       "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Recorded"
       ],
       "aliases": [
-        "EVP",
-        "Electronic voice phenomena"
+        "Electronic voice phenomena",
+        "EVP"
       ],
       "related": [
-        "Disembodied Voice",
-        "Audio Phenomena"
+        "Audio Phenomena",
+        "Disembodied Voice"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
@@ -343,14 +343,14 @@
       "slug": "emf-spike",
       "definition": "A sudden or notable increase in an EMF reading during an investigation that may be interpreted as possible evidence of paranormal activity.",
       "tags": [
-        "Measurement",
+        "Environmental Factor",
         "Instrument Reading",
-        "Environmental Factor"
+        "Measurement"
       ],
       "aliases": [
         "Electromagnetic field spike",
-        "EMF fluctuation",
-        "EMF anomaly"
+        "EMF anomaly",
+        "EMF fluctuation"
       ],
       "related": [
         "Electromagnetic Field",
@@ -367,19 +367,19 @@
         "Common Term"
       ],
       "aliases": [
-        "Spiritual energy",
+        "Demonic energy",
+        "Negative energy",
         "Paranormal energy",
         "Residual energy",
-        "Demonic energy",
-        "Negative energy"
+        "Spiritual energy"
       ],
       "related": [
         "Anomalous Activity",
+        "Battery Drain",
+        "Electromagnetic Field",
         "Paranormal",
         "Supernatural",
-        "Electromagnetic Field",
-        "Temperature Changes",
-        "Battery Drain"
+        "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -389,8 +389,8 @@
       "slug": "environmental-contamination",
       "definition": "An environmental condition or factor that may affect, distort, or inhibit analysis of reported or recorded activity.",
       "tags": [
-        "Evidence",
         "Environmental Factor",
+        "Evidence",
         "Natural Explanation"
       ],
       "aliases": [
@@ -415,10 +415,10 @@
         "Haunting spirit"
       ],
       "related": [
-        "Paranormal",
-        "Spirit",
         "Apparition",
-        "Shadow People"
+        "Paranormal",
+        "Shadow People",
+        "Spirit"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.2.0"
@@ -436,9 +436,9 @@
       ],
       "related": [
         "Anomalous Activity",
+        "Ghost",
         "Paranormal",
-        "Supernatural",
-        "Ghost"
+        "Supernatural"
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
@@ -450,17 +450,17 @@
       "tags": [
         "Common Term",
         "Equipment",
-        "Visual Phenomenon",
-        "Measurement"
+        "Measurement",
+        "Visual Phenomenon"
       ],
       "aliases": [
-        "IR camera",
         "Infrared video camera",
+        "IR camera",
         "Night vision camera"
       ],
       "related": [
-        "Visual Phenomena",
-        "Data Logger"
+        "Data Logger",
+        "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -493,12 +493,12 @@
         "Research"
       ],
       "aliases": [
-        "ITC",
-        "Instrumental transcommunication"
+        "Instrumental transcommunication",
+        "ITC"
       ],
       "related": [
-        "Spirit Box",
-        "Electronic Voice Phenomenon"
+        "Electronic Voice Phenomenon",
+        "Spirit Box"
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.4.0"
@@ -512,14 +512,14 @@
         "Phenomenon Type"
       ],
       "aliases": [
-        "Interactive activity",
-        "Intelligent haunting"
+        "Intelligent haunting",
+        "Interactive activity"
       ],
       "related": [
-        "Paranormal",
-        "Supernatural",
         "Ghost",
-        "Spirit"
+        "Paranormal",
+        "Spirit",
+        "Supernatural"
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
@@ -540,11 +540,11 @@
         "Light grid"
       ],
       "related": [
-        "Visual Phenomena",
+        "Baseline Reading",
+        "Cat Balls",
         "Infrared Camera",
         "SLS Camera",
-        "Cat Balls",
-        "Baseline Reading"
+        "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -555,19 +555,19 @@
       "definition": "Visible haze, vapor, smoke, fog-like forms, or clouded areas witnessed in person or seen in images.",
       "tags": [
         "Common Term",
-        "Visual Phenomenon",
-        "Environmental Factor"
+        "Environmental Factor",
+        "Visual Phenomenon"
       ],
       "aliases": [
+        "Haze",
         "Mist",
-        "Vapor",
-        "Haze"
+        "Vapor"
       ],
       "related": [
         "Apparition",
-        "Visual Phenomena",
         "Orbs",
-        "Pareidolia"
+        "Pareidolia",
+        "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -578,19 +578,19 @@
       "definition": "Circular or spherical forms, usually light-emitting and sometimes dark, seen in photographs, video, or direct observation.",
       "tags": [
         "Common Term",
-        "Visual Phenomenon",
-        "Recorded"
+        "Recorded",
+        "Visual Phenomenon"
       ],
       "aliases": [
-        "Orb",
         "Light anomaly",
-        "Light sphere"
+        "Light sphere",
+        "Orb"
       ],
       "related": [
-        "Visual Phenomena",
         "Mists",
+        "Paranormal",
         "Pareidolia",
-        "Paranormal"
+        "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -604,15 +604,15 @@
         "Equipment"
       ],
       "aliases": [
+        "Message board",
         "Ouija board",
         "Spirit board",
-        "Talking board",
-        "Message board"
+        "Talking board"
       ],
       "related": [
         "Instrumental Trans-Communication",
-        "Spirit Box",
-        "Psychography"
+        "Psychography",
+        "Spirit Box"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -629,10 +629,10 @@
         "Paranormal claim"
       ],
       "related": [
+        "Electromagnetic Field",
         "Ghost",
         "Parapsychology",
         "Pareidolia",
-        "Electromagnetic Field",
         "Temperature Changes"
       ],
       "versionAdded": "0.1.0",
@@ -663,20 +663,20 @@
       "slug": "pareidolia",
       "definition": "The perception of meaningful patterns, faces, figures, words, or voices in ambiguous or random sensory information.",
       "tags": [
-        "Perceptual Factor",
         "Evidence Review",
-        "Natural Explanation"
+        "Natural Explanation",
+        "Perceptual Factor"
       ],
       "aliases": [
-        "Pattern perception",
-        "Matrixing"
+        "Matrixing",
+        "Pattern perception"
       ],
       "related": [
         "Apparition",
-        "Shadow People",
-        "Orbs",
         "Mists",
-        "Paranormal"
+        "Orbs",
+        "Paranormal",
+        "Shadow People"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -695,8 +695,8 @@
         "Spirit writing"
       ],
       "related": [
-        "Ouija",
         "Instrumental Trans-Communication",
+        "Ouija",
         "Spirit"
       ],
       "versionAdded": "0.4.0",
@@ -733,14 +733,14 @@
       ],
       "aliases": [
         "Radiating electromagneticity pod",
-        "REM-Pod",
-        "REM pod device"
+        "REM pod device",
+        "REM-Pod"
       ],
       "related": [
+        "Baseline Reading",
         "Electromagnetic Field",
-        "EMF Spike",
         "EMF Meter",
-        "Baseline Reading"
+        "EMF Spike"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -751,20 +751,20 @@
       "definition": "A common term for dark, shadow-like figures reported as human-shaped or presence-like, commonly lacking clear features or seen briefly, peripherally, or under low-light conditions.",
       "tags": [
         "Common Term",
-        "Visual Phenomenon",
-        "Entity Term"
+        "Entity Term",
+        "Visual Phenomenon"
       ],
       "aliases": [
-        "Shadow person",
+        "Shadow being",
         "Shadow figure",
-        "Shadow being"
+        "Shadow person"
       ],
       "related": [
-        "Visual Phenomena",
         "Apparition",
         "Ghost",
+        "Pareidolia",
         "Spirit",
-        "Pareidolia"
+        "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -776,20 +776,20 @@
       "tags": [
         "Common Term",
         "Equipment",
-        "Visual Phenomenon",
-        "Instrument Reading"
+        "Instrument Reading",
+        "Visual Phenomenon"
       ],
       "aliases": [
-        "Structured light sensor camera",
-        "Structured light camera",
         "Kinect camera",
-        "Stick figure camera"
+        "Stick figure camera",
+        "Structured light camera",
+        "Structured light sensor camera"
       ],
       "related": [
         "Infrared Camera",
         "Laser Grid",
-        "Visual Phenomena",
-        "Pareidolia"
+        "Pareidolia",
+        "Visual Phenomena"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -807,10 +807,10 @@
         "Presence"
       ],
       "related": [
-        "Ghost",
         "Apparition",
-        "Shadow People",
-        "Parapsychology"
+        "Ghost",
+        "Parapsychology",
+        "Shadow People"
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
@@ -820,23 +820,23 @@
       "slug": "spirit-box",
       "definition": "A device or application used to generate audio or words that may be reviewed for possible responses or anomalous content.",
       "tags": [
+        "Audio Phenomenon",
         "Common Term",
-        "Equipment",
-        "Audio Phenomenon"
+        "Equipment"
       ],
       "aliases": [
-        "Ghost box",
-        "Radio sweep",
-        "Word bank",
-        "Spirit box app",
+        "Alice Box",
         "Broken radio",
+        "Ghost box",
         "Ovilus",
-        "Alice Box"
+        "Radio sweep",
+        "Spirit box app",
+        "Word bank"
       ],
       "related": [
-        "Electronic Voice Phenomenon",
         "Audio Phenomena",
-        "Compromised Evidence"
+        "Compromised Evidence",
+        "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.3.0"
@@ -853,8 +853,8 @@
         "Supernatural claim"
       ],
       "related": [
-        "Paranormal",
         "Ghost",
+        "Paranormal",
         "Spirit"
       ],
       "versionAdded": "0.3.0",
@@ -866,8 +866,8 @@
       "definition": "Reported or measured shifts in ambient temperature, surface temperature, or perceived heat or cold, commonly referred to as cold spots or hot spots.",
       "tags": [
         "Environmental Factor",
-        "Measurement",
-        "Instrument Reading"
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
         "Cold spots",
@@ -889,19 +889,19 @@
       "tags": [
         "Common Term",
         "Equipment",
-        "Measurement",
-        "Instrument Reading"
+        "Instrument Reading",
+        "Measurement"
       ],
       "aliases": [
-        "Thermal imaging camera",
+        "FLIR camera",
         "Thermal imager",
-        "FLIR camera"
+        "Thermal imaging camera"
       ],
       "related": [
-        "Infrared Camera",
-        "Temperature Changes",
+        "Ambient Temperature Deviation Detection",
         "Data Logger",
-        "Ambient Temperature Deviation Detection"
+        "Infrared Camera",
+        "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.4.0"
@@ -915,14 +915,14 @@
         "Measurement"
       ],
       "aliases": [
+        "TF2",
         "Tri-field meter",
-        "Trifield meter",
         "TriField",
-        "TF2"
+        "Trifield meter"
       ],
       "related": [
-        "EMF Meter",
         "Electromagnetic Field",
+        "EMF Meter",
         "EMF Spike"
       ],
       "versionAdded": "0.3.0",
@@ -938,8 +938,8 @@
         "Visual Phenomenon"
       ],
       "aliases": [
-        "Visual phenomenon",
-        "Sight phenomena"
+        "Sight phenomena",
+        "Visual phenomenon"
       ],
       "related": [
         "Apparition",
@@ -955,18 +955,18 @@
       "slug": "whispers",
       "definition": "Low-volume voice or speech-like sounds heard or recorded without an apparent source.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Witnessed"
       ],
       "aliases": [
-        "Whispering",
-        "Low voice"
+        "Low voice",
+        "Whispering"
       ],
       "related": [
-        "Electronic Voice Phenomenon",
+        "Audio Phenomena",
         "Disembodied Voice",
-        "Audio Phenomena"
+        "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"

@@ -45,6 +45,8 @@ function validateTerminologyFile(file) {
     return;
   }
 
+  validateAlphabeticalOrder(labelPrefix, 'terms', terms, term => term?.term);
+
   for (const term of terms) {
     if (typeof term.term === 'string') {
       const normalizedTerm = term.term.trim().toLowerCase();
@@ -80,6 +82,8 @@ function validateTerminologyFile(file) {
 
     if (!Array.isArray(term.tags) || term.tags.length === 0) {
       problems.push(`${labelPrefix}: ${label}: tags must be a non-empty array.`);
+    } else {
+      validateAlphabeticalOrder(labelPrefix, `${label}: tags`, term.tags);
     }
 
     for (const field of ['versionAdded', 'versionUpdated']) {
@@ -91,6 +95,8 @@ function validateTerminologyFile(file) {
     for (const field of ['aliases', 'related']) {
       if (field in term && !Array.isArray(term[field])) {
         problems.push(`${labelPrefix}: ${label}: ${field} must be an array when present.`);
+      } else if (Array.isArray(term[field])) {
+        validateAlphabeticalOrder(labelPrefix, `${label}: ${field}`, term[field]);
       }
     }
 
@@ -135,4 +141,20 @@ function validateTerminologyFile(file) {
   } else if (metadata.termCount !== terms.length) {
     problems.push(`${labelPrefix}: metadata termCount is ${metadata.termCount}, expected ${terms.length}.`);
   }
+}
+
+function validateAlphabeticalOrder(labelPrefix, label, values, getValue = value => value) {
+  for (let index = 1; index < values.length; index += 1) {
+    const previous = String(getValue(values[index - 1]) ?? '');
+    const current = String(getValue(values[index]) ?? '');
+
+    if (compareAlphabetically(previous, current) > 0) {
+      problems.push(`${labelPrefix}: ${label} must be alphabetized; "${previous}" should come after "${current}".`);
+      return;
+    }
+  }
+}
+
+function compareAlphabetically(left, right) {
+  return left.localeCompare(right, 'en-US', { sensitivity: 'base' });
 }

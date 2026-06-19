@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.6.0",
-    "released": "2026-06-08",
+    "version": "0.7.0",
+    "released": "2026-06-18",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 71
+    "termCount": 78
   },
   "terms": [
     {
@@ -85,7 +85,9 @@
         "Visual Phenomenon"
       ],
       "aliases": [
+        "Discarnate",
         "Figure",
+        "Ghost",
         "Visual manifestation"
       ],
       "related": [
@@ -97,7 +99,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Apport",
@@ -397,6 +399,38 @@
       "versionUpdated": "0.6.0"
     },
     {
+      "term": "Collective Experience",
+      "slug": "collective-experience",
+      "definition": "An event or perception reported by more than one person, either at the same time or in close sequence, and interpreted as involving the same anomalous activity, presence, or phenomenon.",
+      "tags": [
+        "Evidence Review",
+        "Personal Experience",
+        "Reporting",
+        "Witness Account"
+      ],
+      "aliases": [
+        "Collective apparition",
+        "Collective phenomena",
+        "Collective report",
+        "Collective sighting",
+        "Collective sightings",
+        "Mass delusion",
+        "Mass hallucination",
+        "Mass hysteria",
+        "Shared experience"
+      ],
+      "related": [
+        "Anomalous Activity",
+        "Apparition",
+        "Auditory Illusion",
+        "Corroboration",
+        "Personal Experience",
+        "Suggestibility"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
+    },
+    {
       "term": "Compromised Evidence",
       "slug": "compromised-evidence",
       "definition": "Evidence affected by environmental contamination, handling, instrument error, or other conditions that make it unreliable or unsuitable for analysis.",
@@ -415,6 +449,31 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.6.0"
+    },
+    {
+      "term": "Control",
+      "slug": "control",
+      "definition": "A known or intentionally arranged condition used to help distinguish reported anomalous activity from ordinary environmental, technical, psychological, or procedural explanations.",
+      "tags": [
+        "Evidence Review",
+        "Methodology",
+        "Quality Control",
+        "Research"
+      ],
+      "aliases": [
+        "Control condition",
+        "Control session",
+        "Controlled experiment"
+      ],
+      "related": [
+        "Baseline Reading",
+        "Compromised Evidence",
+        "Debunking",
+        "Environmental Contamination",
+        "False Positive"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Corroboration",
@@ -517,6 +576,8 @@
         "Witnessed"
       ],
       "aliases": [
+        "Audible voice phenomena",
+        "Direct voice phenomena",
         "Unexplained voice",
         "Voice anomaly"
       ],
@@ -526,7 +587,7 @@
         "Whispers"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.1.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Dowsing Rods",
@@ -572,6 +633,34 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
+    },
+    {
+      "term": "Electronic Audio Phenomenon",
+      "slug": "electronic-audio-phenomenon",
+      "definition": "Recorded audio interpreted as an anomalous sound, signal, voice, or noise that was not observed at the time of recording.",
+      "tags": [
+        "Audio Phenomenon",
+        "Common Term",
+        "Evidence Review",
+        "Recorded"
+      ],
+      "aliases": [
+        "EAP",
+        "Electronic audio phenomena",
+        "Electronic sound phenomena",
+        "Electronic sound phenomenon",
+        "Recorded audio anomaly"
+      ],
+      "related": [
+        "Audio Phenomena",
+        "Auditory Illusion",
+        "Disembodied Voice",
+        "Electronic Voice Phenomenon",
+        "Instrumental Trans-Communication",
+        "Spirit Box"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Electronic Voice Phenomenon",
@@ -729,6 +818,25 @@
       "versionUpdated": "0.6.0"
     },
     {
+      "term": "False Awakening",
+      "slug": "false-awakening",
+      "definition": "A scenario in which a person believes they have awakened, often in a familiar setting, before later realizing they were still asleep; unusual events during the experience may be interpreted as paranormal activity.",
+      "tags": [
+        "Natural Explanation",
+        "Perceptual Factor",
+        "Personal Experience"
+      ],
+      "aliases": [
+        "False awakening dream"
+      ],
+      "related": [
+        "Personal Experience",
+        "Sleep Paralysis"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
+    },
+    {
       "term": "False Positive",
       "slug": "false-positive",
       "definition": "Evidence that appears to indicate anomalous activity but is later explained by ordinary causes.",
@@ -784,7 +892,12 @@
         "Entity Term"
       ],
       "aliases": [
-        "Haunting spirit"
+        "Apparition",
+        "Haint",
+        "Phantom",
+        "Specter",
+        "Spirit",
+        "Wraith"
       ],
       "related": [
         "Apparition",
@@ -793,7 +906,31 @@
         "Spirit"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.0"
+    },
+    {
+      "term": "Gravity Hill",
+      "slug": "gravity-hill",
+      "definition": "A location where the surrounding landscape creates the visual impression that a slight downhill slope is uphill, making vehicles or objects appear to roll against gravity; these sites are sometimes associated with ghost stories or mistaken for paranormal activity.",
+      "tags": [
+        "Common Term",
+        "Environmental Factor",
+        "Natural Explanation"
+      ],
+      "aliases": [
+        "Ghost hill",
+        "Magnetic hill",
+        "Mystery hill",
+        "Mystery spot"
+      ],
+      "related": [
+        "Anomalous Activity",
+        "Debunking",
+        "Environmental Contamination",
+        "False Positive"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Haunting",
@@ -804,7 +941,9 @@
         "Phenomenon Type"
       ],
       "aliases": [
-        "Haunted activity"
+        "Haunt",
+        "Haunted activity",
+        "Haunted house"
       ],
       "related": [
         "Anomalous Activity",
@@ -813,7 +952,29 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.3.0"
+      "versionUpdated": "0.7.0"
+    },
+    {
+      "term": "Hypnagogia",
+      "slug": "hypnagogia",
+      "definition": "A transitional state between wakefulness and sleep in which vivid sensory experiences, imagery, sounds, or feelings may occur and sometimes be interpreted as paranormal activity.",
+      "tags": [
+        "Natural Explanation",
+        "Perceptual Factor",
+        "Personal Experience"
+      ],
+      "aliases": [
+        "Hypnagogic experience",
+        "Hypnagogic hallucination",
+        "Hypnagogic state"
+      ],
+      "related": [
+        "False Awakening",
+        "Personal Experience",
+        "Sleep Paralysis"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Infrared Camera",
@@ -956,6 +1117,7 @@
         "Interpretation"
       ],
       "aliases": [
+        "Evil spirit",
         "Harmful",
         "Hostile",
         "Negative",
@@ -972,7 +1134,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Mists",
@@ -984,6 +1146,7 @@
         "Visual Phenomenon"
       ],
       "aliases": [
+        "Ecto-mist",
         "Haze",
         "Mist",
         "Vapor"
@@ -995,7 +1158,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.2.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Orbs",
@@ -1290,6 +1453,7 @@
       "tags": [
         "Common Report",
         "Evidence",
+        "Personal Experience",
         "Physical Phenomenon"
       ],
       "aliases": [
@@ -1304,7 +1468,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Sensory Deprivation",
@@ -1352,6 +1516,29 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.2.0"
+    },
+    {
+      "term": "Sleep Paralysis",
+      "slug": "sleep-paralysis",
+      "definition": "A temporary state near sleep or waking in which a person is aware but unable to move, sometimes accompanied by vivid dreamlike perceptions that may be interpreted as paranormal activity.",
+      "tags": [
+        "Evidence Review",
+        "Natural Explanation",
+        "Perceptual Factor",
+        "Personal Experience"
+      ],
+      "aliases": [
+        "Dreaming while awake",
+        "Waking dream"
+      ],
+      "related": [
+        "Apparition",
+        "Auditory Illusion",
+        "Personal Experience",
+        "Suggestibility"
+      ],
+      "versionAdded": "0.7.0",
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "SLS Camera",
@@ -1411,6 +1598,7 @@
       "aliases": [
         "Alice Box",
         "Broken radio",
+        "Frank's Box",
         "Ghost box",
         "Ovilus",
         "Radio sweep",
@@ -1424,7 +1612,7 @@
         "Estes Method"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.6.0"
+      "versionUpdated": "0.7.0"
     },
     {
       "term": "Suggestibility",

@@ -15,17 +15,17 @@
       "slug": "audio-phenomena",
       "definition": "A category of phenomena involving any auditory event that is perceived or documented.",
       "tags": [
+        "Audio Phenomenon",
         "Category",
-        "Phenomenon Type",
-        "Audio Phenomenon"
+        "Phenomenon Type"
       ],
       "aliases": [
         "Auditory phenomena",
         "Sound phenomena"
       ],
       "related": [
-        "Electronic Voice Phenomenon",
         "Disembodied Voice",
+        "Electronic Voice Phenomenon",
         "Whispers"
       ],
       "versionAdded": "0.1.0",
@@ -36,8 +36,8 @@
       "slug": "disembodied-voice",
       "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Witnessed"
       ],
       "aliases": [
@@ -45,9 +45,9 @@
         "Voice anomaly"
       ],
       "related": [
+        "Audio Phenomena",
         "Electronic Voice Phenomenon",
-        "Whispers",
-        "Audio Phenomena"
+        "Whispers"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
@@ -57,17 +57,17 @@
       "slug": "electronic-voice-phenomenon",
       "definition": "Recorded audio interpreted as voices or speech that were otherwise not observed at the time of recording.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Recorded"
       ],
       "aliases": [
-        "EVP",
-        "Electronic voice phenomena"
+        "Electronic voice phenomena",
+        "EVP"
       ],
       "related": [
-        "Disembodied Voice",
-        "Audio Phenomena"
+        "Audio Phenomena",
+        "Disembodied Voice"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"
@@ -112,18 +112,18 @@
       "slug": "whispers",
       "definition": "Low-volume voice or speech-like sounds heard or recorded without an apparent source.",
       "tags": [
-        "Common Term",
         "Audio Phenomenon",
+        "Common Term",
         "Witnessed"
       ],
       "aliases": [
-        "Whispering",
-        "Low voice"
+        "Low voice",
+        "Whispering"
       ],
       "related": [
-        "Electronic Voice Phenomenon",
+        "Audio Phenomena",
         "Disembodied Voice",
-        "Audio Phenomena"
+        "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.1.0"

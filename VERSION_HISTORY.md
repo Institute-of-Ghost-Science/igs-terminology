@@ -1,5 +1,13 @@
 # Version History
 
+## 0.7.1 - 2026-06-19
+
+Updated alias ordering for the current terminology release.
+
+- Alphabetized aliases for all terms.
+- Archived the previous `0.7.0` release.
+- Updated the root metadata release to version 0.7.1.
+
 ## 0.7.0 - 2026-06-18
 
 Added terminology for research controls, shared experiences, sleep-related perceptual experiences, electronic audio, and natural environmental effects associated with ghost stories.
