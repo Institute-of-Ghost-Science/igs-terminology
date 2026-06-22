@@ -1,5 +1,15 @@
 # Version History
 
+## 0.8.0 - 2026-06-22
+
+Drafted new terminology for physical and manifestation-related phenomena.
+
+- Added ectoplasm, kinetic phenomena, manifestation, materialization, and physical phenomena.
+- Added physical phenomena links to related physical, environmental, substance, and object-activity terms.
+- Archived the previous `0.7.4` release.
+- Updated the root metadata release to version 0.8.0.
+- Increased the public glossary to 83 terms.
+
 ## 0.7.4 - 2026-06-22
 
 Refined wording for reported activity language.

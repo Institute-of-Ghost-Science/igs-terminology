@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.8.0",
+    "version": "0.7.4",
     "released": "2026-06-22",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 83
+    "termCount": 78
   },
   "terms": [
     {
@@ -112,12 +112,11 @@
       "related": [
         "Anomalous Activity",
         "Asport",
-        "Physical Phenomena",
         "Poltergeist",
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Asport",
@@ -134,12 +133,11 @@
       "related": [
         "Anomalous Activity",
         "Apport",
-        "Physical Phenomena",
         "Poltergeist",
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Attachment",
@@ -152,7 +150,6 @@
       "aliases": [
         "Attached spirit",
         "Entity attachment",
-        "Manabee",
         "Spirit attachment",
         "Spiritual attachment"
       ],
@@ -166,7 +163,7 @@
         "Spirit"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Audio Phenomena",
@@ -271,11 +268,10 @@
       ],
       "related": [
         "Anomalous Activity",
-        "Energy",
-        "Physical Phenomena"
+        "Energy"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Benevolent",
@@ -583,28 +579,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Ectoplasm",
-      "slug": "ectoplasm",
-      "definition": "Historically, a substance claimed in mediumship to appear during spirit communication; in modern investigations, also used for web-like or fibrous material found at a location and interpreted as possible paranormal evidence.",
-      "tags": [
-        "Evidence",
-        "Physical Phenomenon"
-      ],
-      "aliases": [
-        "Ectoplasmic substance",
-        "Spirit substance",
-        "Teleplasm",
-        "Web-like substance"
-      ],
-      "related": [
-        "Environmental Contamination",
-        "Materialization",
-        "Physical Phenomena"
-      ],
-      "versionAdded": "0.8.0",
-      "versionUpdated": "0.8.0"
-    },
-    {
       "term": "Electromagnetic Field",
       "slug": "electromagnetic-field",
       "definition": "In supernatural investigation, a measurement used to document variances in electromagnetic radiation. These variances can be interpreted as possible evidence of paranormal activity when considered alongside the full investigation context.",
@@ -719,8 +693,6 @@
       ],
       "aliases": [
         "Demonic energy",
-        "Ka",
-        "Life force",
         "Negative energy",
         "Paranormal energy",
         "Residual energy",
@@ -736,7 +708,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Environmental Contamination",
@@ -1042,26 +1014,6 @@
       "versionUpdated": "0.7.3"
     },
     {
-      "term": "Kinetic Phenomena",
-      "slug": "kinetic-phenomena",
-      "definition": "A type of phenomena involving apparent movement, force, vibration, or disturbance of physical objects.",
-      "tags": [
-        "Category",
-        "Physical Phenomenon"
-      ],
-      "aliases": [
-        "Kinetic activity",
-        "Movement",
-        "Vibrations"
-      ],
-      "related": [
-        "Physical Phenomena",
-        "Poltergeist"
-      ],
-      "versionAdded": "0.8.0",
-      "versionUpdated": "0.8.0"
-    },
-    {
       "term": "Knocking",
       "slug": "knocking",
       "definition": "Knocks, taps, bangs, or similar impact-like sounds that are heard or recorded without an immediately identifiable source.",
@@ -1121,7 +1073,6 @@
         "Evil spirit",
         "Harmful",
         "Hostile",
-        "Malicious",
         "Negative",
         "Threatening"
       ],
@@ -1136,49 +1087,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.8.0"
-    },
-    {
-      "term": "Manifestation",
-      "slug": "manifestation",
-      "definition": "A perceived expression of anomalous or paranormal activity, including sensory, environmental, visual, audio, or physical phenomena.",
-      "tags": [
-        "Category",
-        "Foundational Concept"
-      ],
-      "aliases": [
-        "Paranormal manifestation"
-      ],
-      "related": [
-        "Audio Phenomena",
-        "Materialization",
-        "Phantom Smells",
-        "Temperature Changes",
-        "Visual Phenomena"
-      ],
-      "versionAdded": "0.8.0",
-      "versionUpdated": "0.8.0"
-    },
-    {
-      "term": "Materialization",
-      "slug": "materialization",
-      "definition": "A manifestation in which a person, figure, object, substance, or physical form is perceived as appearing or becoming visible.",
-      "tags": [
-        "Physical Phenomenon",
-        "Visual Phenomenon"
-      ],
-      "aliases": [
-        "Physical manifestation"
-      ],
-      "related": [
-        "Apparition",
-        "Apport",
-        "Manifestation",
-        "Physical Phenomena",
-        "Visual Phenomena"
-      ],
-      "versionAdded": "0.8.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Mists",
@@ -1340,47 +1249,17 @@
       ],
       "aliases": [
         "Clairolfaction",
-        "Olfactory hallucination",
         "Phantom odors",
-        "Phantosmia",
         "Unexplained smells"
       ],
       "related": [
         "Anomalous Activity",
         "Environmental Contamination",
         "Haunting",
-        "Personal Experience",
-        "Physical Phenomena"
+        "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.8.0"
-    },
-    {
-      "term": "Physical Phenomena",
-      "slug": "physical-phenomena",
-      "definition": "A category of phenomena involving changes in physical objects, substances, or environmental conditions, such as movement, marks, odors, or temperature shifts.",
-      "tags": [
-        "Category",
-        "Physical Phenomenon"
-      ],
-      "aliases": [
-        "Physical activity",
-        "Physical effects",
-        "Physical phenomena"
-      ],
-      "related": [
-        "Apport",
-        "Asport",
-        "Battery Drain",
-        "Ectoplasm",
-        "Kinetic Phenomena",
-        "Materialization",
-        "Phantom Smells",
-        "Poltergeist",
-        "Temperature Changes"
-      ],
-      "versionAdded": "0.8.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Poltergeist",
@@ -1398,12 +1277,10 @@
       "related": [
         "Anomalous Activity",
         "Haunting",
-        "Kinetic Phenomena",
-        "Knocking",
-        "Physical Phenomena"
+        "Knocking"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Possession",
@@ -1731,11 +1608,10 @@
       ],
       "related": [
         "Electromagnetic Field",
-        "Paranormal",
-        "Physical Phenomena"
+        "Paranormal"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.8.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Thermal Camera",
