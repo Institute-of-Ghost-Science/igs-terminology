@@ -33,8 +33,8 @@ The canonical `terms.json` file contains both release metadata and the term list
 ```json
 {
   "metadata": {
-    "version": "0.7.2",
-    "released": "2026-06-19",
+    "version": "0.7.3",
+    "released": "2026-06-22",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
@@ -98,6 +98,7 @@ Previous terminology releases are archived in `versions/`:
 - `versions/0.6.0/`
 - `versions/0.7.0/`
 - `versions/0.7.1/`
+- `versions/0.7.2/`
 
 Each archived release includes `terms.json` with embedded metadata and `terms.csv`. The root files represent the current release.
 

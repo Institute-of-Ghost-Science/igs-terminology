@@ -12,5 +12,6 @@ This folder contains previous public terminology releases.
 | 0.6.0 | 2026-06-08 | 71 | `0.6.0/terms.json`, `0.6.0/terms.csv` |
 | 0.7.0 | 2026-06-18 | 78 | `0.7.0/terms.json`, `0.7.0/terms.csv` |
 | 0.7.1 | 2026-06-19 | 78 | `0.7.1/terms.json`, `0.7.1/terms.csv` |
+| 0.7.2 | 2026-06-19 | 78 | `0.7.2/terms.json`, `0.7.2/terms.csv` |
 
 Each `terms.json` file contains both release metadata and terms. The current terminology release remains at the repository root.

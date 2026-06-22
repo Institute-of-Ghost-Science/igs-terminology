@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "0.7.3",
-    "released": "2026-06-22",
+    "version": "0.7.2",
+    "released": "2026-06-19",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
@@ -255,7 +255,7 @@
     {
       "term": "Battery Drain",
       "slug": "battery-drain",
-      "definition": "An unexpected loss of battery charge that may be interpreted as anomalous activity or as evidence of it.",
+      "definition": "An unexpected loss of battery charge treated as anomalous activity or as evidence of it.",
       "tags": [
         "Evidence",
         "Physical Phenomenon"
@@ -271,7 +271,7 @@
         "Energy"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Benevolent",
@@ -514,7 +514,7 @@
     {
       "term": "Demon",
       "slug": "demon",
-      "definition": "A reported presence believed or interpreted to be nonhuman or spiritual, commonly associated with harmful, hostile, deceptive, or malevolent intent.",
+      "definition": "A nonhuman spiritual or supernatural entity commonly interpreted as harmful, hostile, deceptive, or malevolent.",
       "tags": [
         "Entity Term",
         "Interpretation"
@@ -532,12 +532,12 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Disembodied Voice",
       "slug": "disembodied-voice",
-      "definition": "A voice-like or speech-like sound heard at the time it occurs without an apparent source.",
+      "definition": "A voice or speech-like sound heard at the time it occurs without an apparent source.",
       "tags": [
         "Audio Phenomenon"
       ],
@@ -553,7 +553,7 @@
         "Whispers"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Dowsing Rods",
@@ -890,7 +890,7 @@
     {
       "term": "Haunting",
       "slug": "haunting",
-      "definition": "A pattern of unexplained activity associated with a person, place, or object.",
+      "definition": "A case of unexplained activity associated with a person, place, or object.",
       "tags": [
         "Category",
         "Foundational Concept"
@@ -907,7 +907,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Hypnagogia",
@@ -993,7 +993,7 @@
     {
       "term": "Intelligent Activity",
       "slug": "intelligent-activity",
-      "definition": "Unexplained activity interpreted as showing awareness, intention, or purposeful behavior.",
+      "definition": "Unexplained activity that appears to show awareness, intention, or purposeful behavior.",
       "tags": [
         "Category",
         "Entity-Related",
@@ -1011,12 +1011,12 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Knocking",
       "slug": "knocking",
-      "definition": "Knocks, taps, bangs, or similar impact-like sounds that are heard or recorded without an immediately identifiable source.",
+      "definition": "Knocks, taps, bangs, or similar impact sounds that are heard or recorded without an immediately identifiable source.",
       "tags": [
         "Audio Phenomenon",
         "Physical Phenomenon"
@@ -1035,7 +1035,7 @@
         "Poltergeist"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Laser Grid",
@@ -1264,7 +1264,7 @@
     {
       "term": "Poltergeist",
       "slug": "poltergeist",
-      "definition": "A type of anomalous activity commonly associated with physical disturbances such as object movement, knocking or banging sounds, or other physical events.",
+      "definition": "A type of reported anomalous activity characterized by physical disturbances such as object movement, knocking or banging sounds, or other physical events.",
       "tags": [
         "Audio Phenomenon",
         "Category",
@@ -1280,7 +1280,7 @@
         "Knocking"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Possession",
@@ -1351,7 +1351,7 @@
     {
       "term": "Recurrent Activity",
       "slug": "recurrent-activity",
-      "definition": "Unexplained activity that appears to repeat in a similar way over time without apparent awareness, intention, or purposeful behavior.",
+      "definition": "Unexplained activity that appears to repeat in a similar way over time without showing awareness, intention, or purposeful behavior.",
       "tags": [
         "Category",
         "Foundational Concept",
@@ -1367,7 +1367,7 @@
         "Supernatural"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "REM Pod",
@@ -1393,7 +1393,7 @@
     {
       "term": "Scratches",
       "slug": "scratches",
-      "definition": "Scratches or marks on the skin that cannot immediately be explained and may be interpreted as evidence of paranormal activity.",
+      "definition": "Scratches or marks on the skin that cannot immediately be explained and are interpreted as evidence of paranormal activity.",
       "tags": [
         "Evidence",
         "Physical Phenomenon"
@@ -1410,7 +1410,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Sensory Deprivation",
@@ -1437,7 +1437,7 @@
     {
       "term": "Shadow People",
       "slug": "shadow-people",
-      "definition": "A common term for dark, shadow-like figures perceived as human-shaped or presence-like, commonly lacking clear features or seen briefly, peripherally, or under low-light conditions.",
+      "definition": "A common term for dark, shadow-like figures reported as human-shaped or presence-like, commonly lacking clear features or seen briefly, peripherally, or under low-light conditions.",
       "tags": [
         "Entity Term",
         "Visual Phenomenon"
@@ -1455,7 +1455,7 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Sleep Paralysis",
@@ -1505,7 +1505,7 @@
     {
       "term": "Spirit",
       "slug": "spirit",
-      "definition": "A presence believed or interpreted as nonphysical and as continuing after physical life.",
+      "definition": "A term for a nonphysical presence or consciousness interpreted as continuing apart from a living being.",
       "tags": [
         "Entity Term",
         "Foundational Concept"
@@ -1521,7 +1521,7 @@
         "Shadow People"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Spirit Box",
@@ -1658,7 +1658,7 @@
     {
       "term": "Trigger Object",
       "slug": "trigger-object",
-      "definition": "An object used in an attempt to elicit or encourage paranormal activity.",
+      "definition": "An object used in an attempt to increase the possibility of paranormal activity.",
       "tags": [
         "Equipment"
       ],
@@ -1672,7 +1672,7 @@
         "Intelligent Activity"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Visual Phenomena",
@@ -1698,7 +1698,7 @@
     {
       "term": "Whispers",
       "slug": "whispers",
-      "definition": "Low-volume voice-like or speech-like sounds heard or recorded without an apparent source.",
+      "definition": "Low-volume voice or speech-like sounds heard or recorded without an apparent source.",
       "tags": [
         "Audio Phenomenon"
       ],
@@ -1712,7 +1712,7 @@
         "Electronic Voice Phenomenon"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.7.3"
+      "versionUpdated": "0.7.2"
     }
   ]
 }

@@ -1,5 +1,14 @@
 # Version History
 
+## 0.7.3 - 2026-06-22
+
+Refined terminology definitions to avoid stating belief-based interpretations as established fact.
+
+- Updated entity-related, auditory, physical-activity, and evidence definitions for more careful wording.
+- Kept exorcism and attachment definitions unchanged after review.
+- Archived the previous `0.7.2` release.
+- Updated the root metadata release to version 0.7.3.
+
 ## 0.7.2 - 2026-06-19
 
 Cleaned up terminology tags for the current public glossary.
