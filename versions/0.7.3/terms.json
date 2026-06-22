@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": "0.7.4",
+    "version": "0.7.3",
     "released": "2026-06-22",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
@@ -514,7 +514,7 @@
     {
       "term": "Demon",
       "slug": "demon",
-      "definition": "A presence believed or interpreted to be nonhuman or spiritual, commonly associated with harmful, hostile, deceptive, or malevolent intent.",
+      "definition": "A reported presence believed or interpreted to be nonhuman or spiritual, commonly associated with harmful, hostile, deceptive, or malevolent intent.",
       "tags": [
         "Entity Term",
         "Interpretation"
@@ -532,7 +532,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.7.4"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Disembodied Voice",
@@ -1309,7 +1309,7 @@
     {
       "term": "Provoking",
       "slug": "provoking",
-      "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response.",
+      "definition": "A technique that uses confrontational, challenging, or emotionally charged statements in an attempt to elicit a response from reported activity.",
       "tags": [
         "Technique"
       ],
@@ -1325,7 +1325,7 @@
         "Intelligent Activity"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.7.4"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Psychography",

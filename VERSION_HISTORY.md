@@ -1,5 +1,14 @@
 # Version History
 
+## 0.7.4 - 2026-06-22
+
+Refined wording for reported activity language.
+
+- Removed unnecessary reported framing from demon.
+- Simplified provoking to describe eliciting a response without tying it to reported activity.
+- Archived the previous `0.7.3` release.
+- Updated the root metadata release to version 0.7.4.
+
 ## 0.7.3 - 2026-06-22
 
 Refined terminology definitions to avoid stating belief-based interpretations as established fact.
