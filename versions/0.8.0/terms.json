@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.9.0",
-    "released": "2026-06-24",
+    "version": "0.8.0",
+    "released": "2026-06-22",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 95
+    "termCount": 83
   },
   "terms": [
     {
@@ -878,7 +878,6 @@
         "Apparition",
         "Haint",
         "Phantom",
-        "Presence",
         "Specter",
         "Spirit",
         "Wraith"
@@ -890,7 +889,7 @@
         "Spirit"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.9.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Gravity Hill",
@@ -961,46 +960,6 @@
       "versionUpdated": "0.7.0"
     },
     {
-      "term": "Imitative Sounds",
-      "slug": "imitative-sounds",
-      "definition": "Sounds heard or recorded that resemble familiar object-based sounds, such as doors closing or furniture moving, when the associated objects are not present or cannot be identified.",
-      "tags": [
-        "Audio Phenomenon"
-      ],
-      "aliases": [
-        "Imitative noises",
-        "Object sounds"
-      ],
-      "related": [
-        "Audio Phenomena",
-        "Environmental Contamination",
-        "Poltergeist"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
-      "term": "Imprint",
-      "slug": "imprint",
-      "definition": "The idea that energy, emotion, activity, or significant events can linger in a place, environment, object, or person and later be experienced as anomalous or paranormal activity.",
-      "tags": [
-        "Foundational Concept",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Energy imprint",
-        "Psychic echo",
-        "Psychic imprint"
-      ],
-      "related": [
-        "Energy",
-        "Haunting",
-        "Recurrent Activity"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
       "term": "Infrared Camera",
       "slug": "infrared-camera",
       "definition": "A camera that records infrared light, used to document visual information outside normal visible-light conditions.",
@@ -1054,11 +1013,10 @@
       ],
       "related": [
         "Electronic Voice Phenomenon",
-        "Spirit Box",
-        "Word Generator"
+        "Spirit Box"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.9.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Intelligent Activity",
@@ -1152,25 +1110,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Lost Time",
-      "slug": "lost-time",
-      "definition": "An experience in which a person perceives that an unexplained gap, delay, or discontinuity occurred in their awareness or memory.",
-      "tags": [
-        "Perceptual Factor",
-        "Personal Experience"
-      ],
-      "aliases": [
-        "Missing time",
-        "Time loss",
-        "Time slip"
-      ],
-      "related": [
-        "Personal Experience"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
       "term": "Malevolent",
       "slug": "malevolent",
       "definition": "Describes reported activity or presence perceived as harmful, threatening, hostile, or negative in intent.",
@@ -1242,30 +1181,6 @@
       "versionUpdated": "0.8.0"
     },
     {
-      "term": "Mimicking",
-      "slug": "mimicking",
-      "definition": "A phenomenon in which a voice, sound, or noise is perceived as resembling a specific person, animal, object, or source that is not present or cannot be identified.",
-      "tags": [
-        "Audio Phenomenon",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Mimic",
-        "Mimicry",
-        "Voice mimicking"
-      ],
-      "related": [
-        "Audio Phenomena",
-        "Disembodied Voice",
-        "Electronic Voice Phenomenon",
-        "Imitative Sounds",
-        "Poltergeist",
-        "Whispers"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
       "term": "Mists",
       "slug": "mists",
       "definition": "Visible haze, vapor, smoke, fog-like forms, or clouded areas witnessed in person or seen in images.",
@@ -1287,29 +1202,6 @@
       ],
       "versionAdded": "0.2.0",
       "versionUpdated": "0.7.2"
-    },
-    {
-      "term": "Nonhuman Presence",
-      "slug": "nonhuman-presence",
-      "definition": "A presence believed or interpreted as spiritual, nonphysical, or entity-like without being identified as formerly human.",
-      "tags": [
-        "Entity Term",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Inhuman presence",
-        "Inhuman spirit",
-        "Non-human spirit",
-        "Nonhuman spirit"
-      ],
-      "related": [
-        "Demon",
-        "Shadow People",
-        "Spirit",
-        "Supernatural"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
     },
     {
       "term": "Orbs",
@@ -1375,65 +1267,6 @@
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.7.2"
-    },
-    {
-      "term": "Paranormal Entertainment",
-      "slug": "paranormal-entertainment",
-      "definition": "Media, events, performances, or commercial content centered on paranormal or haunted subjects for entertainment purposes.",
-      "tags": [
-        "Practice"
-      ],
-      "aliases": [
-        "Paranormal entertainment industry",
-        "Paranormal media"
-      ],
-      "related": [
-        "Paranormal",
-        "Paranormal Tourism",
-        "Paranormal Tours"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
-      "term": "Paranormal Tourism",
-      "slug": "paranormal-tourism",
-      "definition": "Travel, visitation, or public interest associated with places known, believed, or promoted as having paranormal or haunted significance.",
-      "tags": [
-        "Practice"
-      ],
-      "aliases": [
-        "Ghost tourism",
-        "Haunted tourism",
-        "Legend tripping"
-      ],
-      "related": [
-        "Ghost",
-        "Haunting",
-        "Paranormal",
-        "Paranormal Tours"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
-      "term": "Paranormal Tours",
-      "slug": "paranormal-tours",
-      "definition": "Organized visits or guided experiences centered on places presented as paranormal, haunted, or historically associated with unusual activity.",
-      "tags": [
-        "Practice"
-      ],
-      "aliases": [
-        "Ghost tours",
-        "Haunted tours"
-      ],
-      "related": [
-        "Haunting",
-        "Paranormal Entertainment",
-        "Paranormal Tourism"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
     },
     {
       "term": "Parapsychology",
@@ -1550,34 +1383,6 @@
       "versionUpdated": "0.8.0"
     },
     {
-      "term": "Physiological Phenomena",
-      "slug": "physiological-phenomena",
-      "definition": "A category of phenomena involving physical sensations or symptoms interpreted as paranormal in origin, such as headaches, dizziness, chills, goosebumps, nausea, pressure, or fatigue.",
-      "tags": [
-        "Category",
-        "Perceptual Factor",
-        "Personal Experience"
-      ],
-      "aliases": [
-        "Bodily sensations",
-        "Dizziness",
-        "Goosebumps",
-        "Physical symptoms",
-        "Physiological responses",
-        "Somatic responses"
-      ],
-      "related": [
-        "Electromagnetic Field",
-        "Environmental Contamination",
-        "Infrasound",
-        "Personal Experience",
-        "Suggestibility",
-        "Temperature Changes"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
       "term": "Poltergeist",
       "slug": "poltergeist",
       "definition": "A type of anomalous activity commonly associated with physical disturbances such as object movement, knocking or banging sounds, or other physical events.",
@@ -1599,28 +1404,6 @@
       ],
       "versionAdded": "0.6.0",
       "versionUpdated": "0.8.0"
-    },
-    {
-      "term": "Portal",
-      "slug": "portal",
-      "definition": "The idea that a place or location can act as a passage or access point for paranormal activity, spirits, entities, or other nonphysical presences.",
-      "tags": [
-        "Entity-Related",
-        "Interpretation"
-      ],
-      "aliases": [
-        "Doorway",
-        "Gateway",
-        "Paranormal portal",
-        "Spiritual portal"
-      ],
-      "related": [
-        "Haunting",
-        "Spirit",
-        "Supernatural"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
     },
     {
       "term": "Possession",
@@ -1753,29 +1536,6 @@
       "versionUpdated": "0.7.3"
     },
     {
-      "term": "Sensory Conflict",
-      "slug": "sensory-conflict",
-      "definition": "A condition in which conflicting sensory cues, such as uneven floors, sloped surfaces, low ceilings, visual distortion, or unusual spatial layout, may cause physical sensations and/or emotional responses.",
-      "tags": [
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "aliases": [
-        "Balance disturbance",
-        "Disorientation",
-        "Spatial disorientation"
-      ],
-      "related": [
-        "Environmental Contamination",
-        "Gravity Hill",
-        "Personal Experience",
-        "Physiological Phenomena",
-        "Suggestibility"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
-    },
-    {
       "term": "Sensory Deprivation",
       "slug": "sensory-deprivation",
       "definition": "A technique that limits sensory input, commonly sight and/or hearing, in an attempt to reduce outside awareness and increase focus on selected sensations, impressions, or perceptions.",
@@ -1889,28 +1649,30 @@
     {
       "term": "Spirit Box",
       "slug": "spirit-box",
-      "definition": "A device that rapidly scans radio frequencies or audio channels to generate sounds that may be interpreted as communication or other anomalous content.",
+      "definition": "A device or application used to generate audio or words that may be reviewed for possible responses or anomalous content.",
       "tags": [
         "Audio Phenomenon",
         "Entity-Related",
         "Equipment"
       ],
       "aliases": [
+        "Alice Box",
         "Broken radio",
         "Frank's Box",
         "Ghost box",
-        "Radio sweep"
+        "Ovilus",
+        "Radio sweep",
+        "Spirit box app",
+        "Word bank"
       ],
       "related": [
         "Audio Phenomena",
         "Compromised Evidence",
         "Electronic Voice Phenomenon",
-        "Estes Method",
-        "Instrumental Trans-Communication",
-        "Word Generator"
+        "Estes Method"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.9.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Suggestibility",
@@ -2075,28 +1837,6 @@
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.7.3"
-    },
-    {
-      "term": "Word Generator",
-      "slug": "word-generator",
-      "definition": "A device or application that selects words, sounds, or phrases from a precompiled list and produces or displays them for review as potentially meaningful output.",
-      "tags": [
-        "Audio Phenomenon",
-        "Entity-Related",
-        "Equipment"
-      ],
-      "aliases": [
-        "Alice Box",
-        "Ovilus",
-        "Word bank"
-      ],
-      "related": [
-        "Audio Phenomena",
-        "Instrumental Trans-Communication",
-        "Spirit Box"
-      ],
-      "versionAdded": "0.9.0",
-      "versionUpdated": "0.9.0"
     }
   ]
 }

@@ -1,5 +1,21 @@
 # Version History
 
+## 0.9.0 - 2026-06-24
+
+Drafted terminology for physiological and sensory-conflict experiences.
+
+- Added imitative sounds, imprint, and mimicking as audio and interpretive terms.
+- Added lost time as a personal-experience and perceptual-factor term.
+- Added nonhuman presence as a neutral entity term.
+- Added paranormal entertainment, paranormal tourism, and paranormal tours as practice terms.
+- Added physiological phenomena as a category for physical sensations or symptoms interpreted as paranormal in origin.
+- Added portal as an entity-related interpretation term.
+- Added sensory conflict as a perceptual factor involving conflicting sensory cues.
+- Added word generator as a separate equipment term and refined spirit box for scanning-radio devices.
+- Archived the previous `0.8.0` release.
+- Updated the root metadata release to version 0.9.0.
+- Increased the public glossary to 95 terms.
+
 ## 0.8.0 - 2026-06-22
 
 Drafted new terminology for physical and manifestation-related phenomena.
