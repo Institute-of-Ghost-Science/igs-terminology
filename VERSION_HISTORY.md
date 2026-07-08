@@ -1,5 +1,24 @@
 # Version History
 
+## 0.10.0 - 2026-07-08
+
+Editorial pass for definition tone and alias hygiene, with new practice and experience terms.
+
+- Added dowsing as a practice term and narrowed dowsing rods to an equipment term.
+- Added legend tripping as a practice term, previously an alias of paranormal tourism.
+- Added mass psychogenic illness as a natural-explanation term, taking over the mass delusion, mass hallucination, and mass hysteria aliases from collective experience.
+- Added time slip as a perceptual and personal-experience term, previously an alias of lost time.
+- Rewrote electromagnetic field to describe the field itself rather than a measurement.
+- Rewrote energy, footsteps, and scratches for clearer, less circular definitions.
+- Standardized unexplained sensory definitions on "without an apparent source" and aligned apport and asport on "without an apparent physical cause".
+- Standardized entity definitions on "believed or interpreted as" phrasing in demon and possession.
+- Refined call and response, infrasound, kinetic phenomena, and personal experience definitions.
+- Removed aliases that duplicated standalone terms, including control, materialization, and the apparition, ghost, and spirit cross-aliases.
+- Moved discarnate from apparition to spirit and removed case-only duplicate aliases.
+- Archived the previous `0.9.0` release.
+- Updated the root metadata release to version 0.10.0.
+- Increased the public glossary to 99 terms.
+
 ## 0.9.0 - 2026-06-24
 
 Drafted terminology for physiological and sensory-conflict experiences.

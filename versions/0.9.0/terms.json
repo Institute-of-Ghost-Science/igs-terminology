@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.10.0",
-    "released": "2026-07-08",
+    "version": "0.9.0",
+    "released": "2026-06-24",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 99
+    "termCount": 95
   },
   "terms": [
     {
@@ -81,7 +81,9 @@
         "Visual Phenomenon"
       ],
       "aliases": [
+        "Discarnate",
         "Figure",
+        "Ghost",
         "Visual manifestation"
       ],
       "related": [
@@ -93,34 +95,34 @@
         "Visual Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Apport",
       "slug": "apport",
-      "definition": "The reported appearance of an object without an apparent physical cause.",
+      "definition": "The reported appearance of an object without an immediately identified physical source.",
       "tags": [
         "Physical Phenomenon"
       ],
       "aliases": [
         "Apportation",
+        "Materialization",
         "Object appearance"
       ],
       "related": [
         "Anomalous Activity",
         "Asport",
-        "Materialization",
         "Physical Phenomena",
         "Poltergeist",
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Asport",
       "slug": "asport",
-      "definition": "The reported disappearance of an object without an apparent physical cause.",
+      "definition": "The reported disappearance of an object without an immediately identified physical cause.",
       "tags": [
         "Physical Phenomenon"
       ],
@@ -137,7 +139,7 @@
         "Trigger Object"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Attachment",
@@ -243,15 +245,15 @@
       ],
       "aliases": [
         "Baseline",
+        "Control",
         "Initial reading"
       ],
       "related": [
         "Compromised Evidence",
-        "Control",
         "Environmental Contamination"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Battery Drain",
@@ -322,7 +324,7 @@
     {
       "term": "Call and Response",
       "slug": "call-and-response",
-      "definition": "A technique in which an investigator prompts for a reply, often by asking a question or making a noise, and then monitors for a response.",
+      "definition": "A technique that prompts for a response, frequently by asking a question or making a noise, then monitors for a response.",
       "tags": [
         "Audio Phenomenon",
         "Technique"
@@ -341,7 +343,7 @@
         "Spirit Box"
       ],
       "versionAdded": "0.5.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Cat Balls",
@@ -395,6 +397,10 @@
         "Collective phenomena",
         "Collective report",
         "Collective sighting",
+        "Collective sightings",
+        "Mass delusion",
+        "Mass hallucination",
+        "Mass hysteria",
         "Shared experience"
       ],
       "related": [
@@ -406,7 +412,7 @@
         "Suggestibility"
       ],
       "versionAdded": "0.7.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Compromised Evidence",
@@ -512,7 +518,7 @@
     {
       "term": "Demon",
       "slug": "demon",
-      "definition": "A presence believed or interpreted as nonhuman or spiritual, commonly associated with harmful, hostile, deceptive, or malevolent intent.",
+      "definition": "A presence believed or interpreted to be nonhuman or spiritual, commonly associated with harmful, hostile, deceptive, or malevolent intent.",
       "tags": [
         "Entity Term",
         "Interpretation"
@@ -530,7 +536,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.4"
     },
     {
       "term": "Disembodied Voice",
@@ -554,45 +560,27 @@
       "versionUpdated": "0.7.3"
     },
     {
-      "term": "Dowsing",
-      "slug": "dowsing",
-      "definition": "A practice in which the movement of a handheld tool, such as rods or a pendulum, is interpreted as indicating hidden objects, substances, or paranormal activity.",
-      "tags": [
-        "Practice",
-        "Technique"
-      ],
-      "aliases": [
-        "Divining",
-        "Rhabdomancy",
-        "Water witching"
-      ],
-      "related": [
-        "Dowsing Rods",
-        "Instrumental Trans-Communication"
-      ],
-      "versionAdded": "0.10.0",
-      "versionUpdated": "0.10.0"
-    },
-    {
       "term": "Dowsing Rods",
       "slug": "dowsing-rods",
       "definition": "Handheld rods believed to sometimes indicate paranormal activity by moving, crossing, or pointing.",
       "tags": [
-        "Equipment"
+        "Equipment",
+        "Practice",
+        "Technique"
       ],
       "aliases": [
         "Divining rods",
+        "Dowsing",
         "Dowsing sticks",
         "L-rods"
       ],
       "related": [
         "Call and Response",
-        "Dowsing",
         "Instrumental Trans-Communication",
         "Intelligent Activity"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Ectoplasm",
@@ -619,7 +607,7 @@
     {
       "term": "Electromagnetic Field",
       "slug": "electromagnetic-field",
-      "definition": "A field of combined electric and magnetic forces produced by electric charges and their movement. Changes in electromagnetic field readings are sometimes interpreted as possible evidence of paranormal activity.",
+      "definition": "In supernatural investigation, a measurement used to document variances in electromagnetic radiation. These variances can be interpreted as possible evidence of paranormal activity when considered alongside the full investigation context.",
       "tags": [
         "Environmental Factor"
       ],
@@ -634,7 +622,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Electronic Audio Phenomenon",
@@ -724,7 +712,7 @@
     {
       "term": "Energy",
       "slug": "energy",
-      "definition": "A nonspecific term for a force or essence believed to underlie, accompany, or explain anomalous activity.",
+      "definition": "A commonly used term for describing or explaining a wide variety of anomalous activity.",
       "tags": [
         "Foundational Concept",
         "Interpretation"
@@ -748,7 +736,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.4.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Environmental Contamination",
@@ -859,7 +847,7 @@
     {
       "term": "Footsteps",
       "slug": "footsteps",
-      "definition": "Footstep-like sounds heard or recorded without an apparent source.",
+      "definition": "Sounds believed to be footsteps that are heard or recorded without an immediately identifiable source.",
       "tags": [
         "Audio Phenomenon",
         "Physical Phenomenon"
@@ -876,7 +864,7 @@
         "Knocking"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Ghost",
@@ -887,10 +875,12 @@
         "Foundational Concept"
       ],
       "aliases": [
+        "Apparition",
         "Haint",
         "Phantom",
         "Presence",
         "Specter",
+        "Spirit",
         "Wraith"
       ],
       "related": [
@@ -900,7 +890,7 @@
         "Spirit"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.9.0"
     },
     {
       "term": "Gravity Hill",
@@ -1033,7 +1023,7 @@
     {
       "term": "Infrasound",
       "slug": "infrasound",
-      "definition": "Sound below the usual lower limit of human hearing that can cause physical symptoms, including discomfort, unease, or vibration.",
+      "definition": "Sound below the usual lower limit of human hearing that has been known to cause physical symptoms, including discomfort, unease, vibration, or other reported experiences.",
       "tags": [
         "Audio Phenomenon",
         "Environmental Factor",
@@ -1048,7 +1038,7 @@
         "Paranormal"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Instrumental Trans-Communication",
@@ -1096,7 +1086,7 @@
     {
       "term": "Kinetic Phenomena",
       "slug": "kinetic-phenomena",
-      "definition": "A category of phenomena involving apparent movement, force, vibration, or disturbance of physical objects.",
+      "definition": "A type of phenomena involving apparent movement, force, vibration, or disturbance of physical objects.",
       "tags": [
         "Category",
         "Physical Phenomenon"
@@ -1111,12 +1101,12 @@
         "Poltergeist"
       ],
       "versionAdded": "0.8.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Knocking",
       "slug": "knocking",
-      "definition": "Knocks, taps, bangs, or similar impact-like sounds that are heard or recorded without an apparent source.",
+      "definition": "Knocks, taps, bangs, or similar impact-like sounds that are heard or recorded without an immediately identifiable source.",
       "tags": [
         "Audio Phenomenon",
         "Physical Phenomenon"
@@ -1135,7 +1125,7 @@
         "Poltergeist"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Laser Grid",
@@ -1162,25 +1152,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Legend Tripping",
-      "slug": "legend-tripping",
-      "definition": "A practice in which people visit a site associated with a legend, ghost story, or reported paranormal activity, often at night and as a dare, ritual, or rite of passage.",
-      "tags": [
-        "Practice"
-      ],
-      "aliases": [
-        "Legend quest",
-        "Legend trip"
-      ],
-      "related": [
-        "Haunting",
-        "Paranormal Tourism",
-        "Paranormal Tours"
-      ],
-      "versionAdded": "0.10.0",
-      "versionUpdated": "0.10.0"
-    },
-    {
       "term": "Lost Time",
       "slug": "lost-time",
       "definition": "An experience in which a person perceives that an unexplained gap, delay, or discontinuity occurred in their awareness or memory.",
@@ -1190,13 +1161,14 @@
       ],
       "aliases": [
         "Missing time",
-        "Time loss"
+        "Time loss",
+        "Time slip"
       ],
       "related": [
         "Personal Experience"
       ],
       "versionAdded": "0.9.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.9.0"
     },
     {
       "term": "Malevolent",
@@ -1247,31 +1219,6 @@
       ],
       "versionAdded": "0.8.0",
       "versionUpdated": "0.8.0"
-    },
-    {
-      "term": "Mass Psychogenic Illness",
-      "slug": "mass-psychogenic-illness",
-      "definition": "A condition in which physical symptoms, sensations, or perceptions spread among members of a group through social or psychological influence rather than an identified physical cause, sometimes offered as an explanation for collective experiences.",
-      "tags": [
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "aliases": [
-        "Collective hysteria",
-        "Epidemic hysteria",
-        "Mass delusion",
-        "Mass hallucination",
-        "Mass hysteria",
-        "Mass sociogenic illness",
-        "MPI"
-      ],
-      "related": [
-        "Collective Experience",
-        "Physiological Phenomena",
-        "Suggestibility"
-      ],
-      "versionAdded": "0.10.0",
-      "versionUpdated": "0.10.0"
     },
     {
       "term": "Materialization",
@@ -1457,7 +1404,8 @@
       ],
       "aliases": [
         "Ghost tourism",
-        "Haunted tourism"
+        "Haunted tourism",
+        "Legend tripping"
       ],
       "related": [
         "Ghost",
@@ -1466,7 +1414,7 @@
         "Paranormal Tours"
       ],
       "versionAdded": "0.9.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.9.0"
     },
     {
       "term": "Paranormal Tours",
@@ -1531,7 +1479,7 @@
     {
       "term": "Personal Experience",
       "slug": "personal-experience",
-      "definition": "A firsthand account of an event directly experienced by an individual, typically without corroborating evidence.",
+      "definition": "A firsthand account of an event directly experienced by an individual that lacks corroborating evidence.",
       "tags": [
         "Evidence",
         "Witness Account"
@@ -1546,12 +1494,12 @@
         "Corroboration"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Phantom Smells",
       "slug": "phantom-smells",
-      "definition": "Odors perceived without an apparent source, commonly including smoke, perfume, or other distinctive smells.",
+      "definition": "Odors perceived without an immediately identifiable source, commonly including smoke, perfume, or other distinctive smells.",
       "tags": [
         "Environmental Factor",
         "Perceptual Factor",
@@ -1572,7 +1520,7 @@
         "Physical Phenomena"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Physical Phenomena",
@@ -1584,7 +1532,8 @@
       ],
       "aliases": [
         "Physical activity",
-        "Physical effects"
+        "Physical effects",
+        "Physical phenomena"
       ],
       "related": [
         "Apport",
@@ -1598,7 +1547,7 @@
         "Temperature Changes"
       ],
       "versionAdded": "0.8.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Physiological Phenomena",
@@ -1676,7 +1625,7 @@
     {
       "term": "Possession",
       "slug": "possession",
-      "definition": "A state in which a person is believed or interpreted as influenced, controlled, or inhabited by a spirit, entity, or other nonphysical presence.",
+      "definition": "A state in which a person is believed or interpreted to be influenced, controlled, or inhabited by a spirit, entity, or other nonphysical presence.",
       "tags": [
         "Entity-Related",
         "Interpretation"
@@ -1695,7 +1644,7 @@
         "Spirit"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Provoking",
@@ -1784,7 +1733,7 @@
     {
       "term": "Scratches",
       "slug": "scratches",
-      "definition": "Marks or welts appearing on the skin without an apparent cause, sometimes interpreted as evidence of paranormal activity.",
+      "definition": "Scratches or marks on the skin that cannot immediately be explained and may be interpreted as evidence of paranormal activity.",
       "tags": [
         "Evidence",
         "Physical Phenomenon"
@@ -1801,7 +1750,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Sensory Conflict",
@@ -1925,7 +1874,6 @@
         "Foundational Concept"
       ],
       "aliases": [
-        "Discarnate",
         "Entity",
         "Presence"
       ],
@@ -1936,7 +1884,7 @@
         "Shadow People"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.3"
     },
     {
       "term": "Spirit Box",
@@ -1976,6 +1924,7 @@
         "Affectability",
         "Expectation effect",
         "Influenceable",
+        "Suggestability",
         "Suggestion"
       ],
       "related": [
@@ -1985,7 +1934,7 @@
         "Personal Experience"
       ],
       "versionAdded": "0.6.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Supernatural",
@@ -2048,25 +1997,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Time Slip",
-      "slug": "time-slip",
-      "definition": "An experience in which a person perceives their surroundings as briefly belonging to a different time period or era.",
-      "tags": [
-        "Perceptual Factor",
-        "Personal Experience"
-      ],
-      "aliases": [
-        "Time displacement",
-        "Timeslip"
-      ],
-      "related": [
-        "Lost Time",
-        "Personal Experience"
-      ],
-      "versionAdded": "0.10.0",
-      "versionUpdated": "0.10.0"
-    },
-    {
       "term": "TriField Meter",
       "slug": "trifield-meter",
       "definition": "A meter commonly used to detect or measure AC magnetic fields, AC electric fields, and RF or microwave signals.",
@@ -2076,7 +2006,8 @@
       "aliases": [
         "TF2",
         "Tri-field meter",
-        "TriField"
+        "TriField",
+        "Trifield meter"
       ],
       "related": [
         "Electromagnetic Field",
@@ -2084,7 +2015,7 @@
         "EMF Spike"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.10.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Trigger Object",
