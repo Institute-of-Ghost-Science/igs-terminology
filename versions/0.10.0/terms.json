@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "version": "0.11.0",
-    "released": "2026-08-06",
+    "version": "0.10.0",
+    "released": "2026-07-08",
     "author": "Institute of Ghost Science",
     "repositoryUrl": "https://github.com/Institute-of-Ghost-Science/igs-terminology",
     "license": "CC BY-NC 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
     "schemaVersion": "2.0.0",
-    "termCount": 110
+    "termCount": 99
   },
   "terms": [
     {
@@ -23,14 +23,13 @@
         "ATDD",
         "Cold spots",
         "Hot spots",
-        "Temperature deviation detection",
-        "Warm spots"
+        "Temperature deviation detection"
       ],
       "related": [
         "Temperature Changes"
       ],
       "versionAdded": "0.3.0",
-      "versionUpdated": "0.11.0"
+      "versionUpdated": "0.7.2"
     },
     {
       "term": "Anomalous Activity",
@@ -426,22 +425,6 @@
       ],
       "versionAdded": "0.3.0",
       "versionUpdated": "0.7.2"
-    },
-    {
-      "term": "Confirmation Bias",
-      "slug": "confirmation-bias",
-      "definition": "The tendency to notice, interpret, or remember information in ways that support an existing belief or expectation while giving less weight to conflicting information.",
-      "tags": [
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "related": [
-        "Apophenia",
-        "False Positive",
-        "Suggestibility"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
     },
     {
       "term": "Control",
@@ -874,31 +857,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Felt Presence",
-      "slug": "felt-presence",
-      "definition": "A reported feeling that someone or something is nearby, watching, or sharing a space despite no directly observed or confirmed source.",
-      "tags": [
-        "Perceptual Factor",
-        "Personal Experience"
-      ],
-      "aliases": [
-        "Being watched",
-        "Feeling watched",
-        "Not alone",
-        "Sense of presence",
-        "Sensed presence"
-      ],
-      "related": [
-        "Ghost",
-        "Nonhuman Presence",
-        "Physiological Phenomena",
-        "Sensory Conflict",
-        "Spirit"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
       "term": "Footsteps",
       "slug": "footsteps",
       "definition": "Footstep-like sounds heard or recorded without an apparent source.",
@@ -932,7 +890,6 @@
         "Haint",
         "Phantom",
         "Presence",
-        "Revenant",
         "Specter",
         "Wraith"
       ],
@@ -943,7 +900,7 @@
         "Spirit"
       ],
       "versionAdded": "0.1.0",
-      "versionUpdated": "0.11.0"
+      "versionUpdated": "0.10.0"
     },
     {
       "term": "Gravity Hill",
@@ -1618,27 +1575,6 @@
       "versionUpdated": "0.10.0"
     },
     {
-      "term": "Phantom Vehicle",
-      "slug": "phantom-vehicle",
-      "definition": "A reported sighting or sound of a vehicle, ship, carriage, or other conveyance without a confirmed physical source.",
-      "tags": [
-        "Audio Phenomenon",
-        "Visual Phenomenon"
-      ],
-      "aliases": [
-        "Ghost car",
-        "Ghost ship",
-        "Phantom carriage"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Imitative Sounds",
-        "Visual Phenomena"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
       "term": "Physical Phenomena",
       "slug": "physical-phenomena",
       "definition": "A category of phenomena involving changes in physical objects, substances, or environmental conditions, such as movement, marks, odors, or temperature shifts.",
@@ -1804,45 +1740,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Radiesthesia",
-      "slug": "radiesthesia",
-      "definition": "A practice of using bodily sensations or handheld tools, such as pendulums or rods, to detect or evaluate purported energies, substances, or conditions without a confirmed conventional sensing mechanism.",
-      "tags": [
-        "Practice",
-        "Technique"
-      ],
-      "related": [
-        "Dowsing",
-        "Dowsing Rods",
-        "Energy"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
-      "term": "Random Number Generator (RNG)",
-      "slug": "random-number-generator",
-      "definition": "A physical or digital system designed to produce unpredictable values, used in some paranormal research to test whether outcomes differ from chance under predefined conditions.",
-      "tags": [
-        "Equipment",
-        "Research"
-      ],
-      "aliases": [
-        "Random event generator",
-        "REG",
-        "RNG"
-      ],
-      "related": [
-        "Apophenia",
-        "Data Logger",
-        "False Positive",
-        "Instrumental Trans-Communication",
-        "Word Generator"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
       "term": "Recurrent Activity",
       "slug": "recurrent-activity",
       "definition": "Unexplained activity that appears to repeat in a similar way over time without apparent awareness, intention, or purposeful behavior.",
@@ -1883,22 +1780,6 @@
       ],
       "versionAdded": "0.4.0",
       "versionUpdated": "0.7.2"
-    },
-    {
-      "term": "Replication",
-      "slug": "replication",
-      "definition": "The deliberate repetition of an observation, measurement, or procedure under comparable documented conditions to determine whether a result can recur.",
-      "tags": [
-        "Research"
-      ],
-      "related": [
-        "Baseline Reading",
-        "Control",
-        "Corroboration",
-        "Recurrent Activity"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
     },
     {
       "term": "Scratches",
@@ -2125,23 +2006,6 @@
       "versionUpdated": "0.7.2"
     },
     {
-      "term": "Teleportation",
-      "slug": "teleportation",
-      "definition": "The reported movement of a person or object from one location to another without an observed or confirmed intervening path or mechanism.",
-      "tags": [
-        "Category",
-        "Physical Phenomenon"
-      ],
-      "related": [
-        "Anomalous Activity",
-        "Apport",
-        "Asport",
-        "Physical Phenomena"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
       "term": "Temperature Changes",
       "slug": "temperature-changes",
       "definition": "Reported or measured shifts in ambient temperature, surface temperature, or perceived heat or cold, commonly referred to as cold spots or hot spots.",
@@ -2152,8 +2016,7 @@
         "Cold spots",
         "Hot spots",
         "Temperature anomaly",
-        "Thermal",
-        "Warm spots"
+        "Thermal"
       ],
       "related": [
         "Electromagnetic Field",
@@ -2161,7 +2024,7 @@
         "Physical Phenomena"
       ],
       "versionAdded": "0.2.0",
-      "versionUpdated": "0.11.0"
+      "versionUpdated": "0.8.0"
     },
     {
       "term": "Thermal Camera",
@@ -2243,37 +2106,6 @@
       "versionUpdated": "0.7.3"
     },
     {
-      "term": "Tyromancy",
-      "slug": "tyromancy",
-      "definition": "A divination practice in which the appearance, selection, arrangement, or perceived qualities of cheese are interpreted for symbolic meaning, often in a recreational or playful context.",
-      "tags": [
-        "Practice"
-      ],
-      "related": [
-        "Bibliomancy",
-        "Dowsing",
-        "Ouija"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
-      "term": "Verbal Transformation Effect",
-      "slug": "verbal-transformation-effect",
-      "definition": "An auditory-perceptual effect in which repeating a word or phrase can make it seem to change into different words or sounds even though the stimulus remains the same.",
-      "tags": [
-        "Natural Explanation",
-        "Perceptual Factor"
-      ],
-      "related": [
-        "Apophenia",
-        "Auditory Illusion",
-        "Electronic Voice Phenomenon"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
       "term": "Visual Phenomena",
       "slug": "visual-phenomena",
       "definition": "A category of phenomena involving any visual event that is witnessed in person or documented in images or video.",
@@ -2312,39 +2144,6 @@
       ],
       "versionAdded": "0.1.0",
       "versionUpdated": "0.7.3"
-    },
-    {
-      "term": "White Noise",
-      "slug": "white-noise",
-      "definition": "A broadband audio signal containing many frequencies, which may occur as ambient interference or be deliberately used as an audio source during paranormal sessions.",
-      "tags": [
-        "Audio Phenomenon",
-        "Environmental Factor"
-      ],
-      "related": [
-        "Auditory Illusion",
-        "Electronic Audio Phenomenon",
-        "Electronic Voice Phenomenon",
-        "Spirit Box"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
-    },
-    {
-      "term": "Witness Interview",
-      "slug": "witness-interview",
-      "definition": "A structured conversation used to document a person's account while distinguishing direct observations from interpretations, assumptions, and information learned afterward.",
-      "tags": [
-        "Research",
-        "Witness Account"
-      ],
-      "related": [
-        "Collective Experience",
-        "Corroboration",
-        "Personal Experience"
-      ],
-      "versionAdded": "0.11.0",
-      "versionUpdated": "0.11.0"
     },
     {
       "term": "Word Generator",

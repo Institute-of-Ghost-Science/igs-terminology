@@ -1,5 +1,17 @@
 # Version History
 
+## 0.11.0 - 2026-08-06
+
+Expanded terminology for investigative methods, perceptual experiences, audio context, and reported physical phenomena.
+
+- Added confirmation bias, replication, and witness interview as research and evidence-review terms.
+- Added felt presence and verbal transformation effect as perceptual-experience terms.
+- Added phantom vehicle, teleportation, and white noise as reported-phenomenon and audio-context terms.
+- Added radiesthesia, random number generator (RNG), and tyromancy as practice or equipment terms.
+- Added revenant as an alias of ghost and warm spots as an alias of the temperature-related terms.
+- Archived the previous `0.10.0` release.
+- Updated the root metadata release to version `0.11.0` with 110 terms.
+
 ## 0.10.0 - 2026-07-08
 
 Editorial pass for definition tone and alias hygiene, with new practice and experience terms.
